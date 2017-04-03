@@ -92,7 +92,7 @@ def build_model(nn_hdim, num_passes=20000, print_loss=False):
 	
 	return model
 
-model = build_model(10, print_loss=True)
+model = build_model(4, print_loss=True)
 
 plot_decision_boundary(lambda x: predict(model, x))
 plt.title("Decision Boundary for hidden layer size 10")
