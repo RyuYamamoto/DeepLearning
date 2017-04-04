@@ -45,6 +45,19 @@ def draw_digit(data):
 
 	plt.show()
 
+def draw_digit2(data, n, i):
+	size = 28
+	plt.subplot(10,10,n)
+	Z = data.reshape(size,size)
+	Z = Z[::-1,:]
+	plt.xlim(0,27)
+	plt.ylim(0,27)
+	plt.pcolor(Z)
+	plt.title("%d"%i, size=9)
+	plt.gray()
+	plt.tick_params(labelbottom="off")
+	plt.tick_params(labelleft="off")
+
 def draw_digit3(data, n, ans, recog):
 	size = 28
 	plt.subplot(10,10,n)
@@ -148,19 +161,17 @@ for epoch in xrange(1, n_epoch+1):
 	l2_W.append(model.l2.W)
 	l3_W.append(model.l3.W)
 
-'''
+
 # 精度と誤差をグラフ描画
 plt.figure(figsize=(8,6))
 plt.plot(range(len(train_acc)), train_acc)
-plt.plot(range(len(test_acc)), train_acc)
+plt.plot(range(len(test_acc)), test_acc)
 plt.legend(["train_acc", "test_acc"], loc=4)
 plt.title("Accuracy of digit recognition.")
 plt.plot()
-'''
+
 plt.style.use('fivethirtyeight')
-
 plt.figure(figsize=(15,15))
-
 cnt = 0
 for idx in np.random.permutation(N)[:100]:
 	xxx = x_train[idx].astype(np.float32)
@@ -169,5 +180,5 @@ for idx in np.random.permutation(N)[:100]:
 	y = model.l3(h2)
 	cnt += 1
 	draw_digit3(x_train[idx], cnt, y_train[idx], np.argmax(y.data))
-
 plt.show()
+
