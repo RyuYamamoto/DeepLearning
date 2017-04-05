@@ -14,7 +14,7 @@ plt.style.use('ggplot')
 batchsize = 100
 
 # 学修の繰り返し回数
-n_epoch = 1
+n_epoch = 20
 
 # 中間層の数
 n_units = 1000
@@ -170,17 +170,4 @@ plt.plot(range(len(test_acc)), test_acc)
 plt.legend(["train_acc", "test_acc"], loc=4)
 plt.title("Accuracy of digit recognition.")
 plt.plot()
-
-# 答え合わせ
-plt.style.use('fivethirtyeight')
-plt.figure(figsize=(15,15))
-cnt = 0
-for idx in np.random.permutation(N)[:100]:
-	xxx = x_train[idx].astype(np.float32)
-	h1 = F.dropout(F.relu(model.l1(Variable(xxx.reshape(1,784)))), train=False)
-	h2 = F.dropout(F.relu(model.l2(h1)), train=False)
-	y = model.l3(h2)
-	cnt += 1
-	draw_digit3(x_train[idx], cnt, y_train[idx], np.argmax(y.data))
 plt.show()
-
