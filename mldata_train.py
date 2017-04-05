@@ -3,9 +3,10 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.datasets import fetch_mldata
-from chainer import cuda, Variable, FunctionSet, optimizers
+from chainer import cuda, Variable, FunctionSet, optimizers, serializers
 import chainer.functions as F
 import sys
+import pickle
 
 plt.style.use('ggplot')
 
@@ -13,7 +14,7 @@ plt.style.use('ggplot')
 batchsize = 100
 
 # 学修の繰り返し回数
-n_epoch = 20
+n_epoch = 1
 
 # 中間層の数
 n_units = 1000
@@ -160,6 +161,7 @@ for epoch in xrange(1, n_epoch+1):
 	l2_W.append(model.l2.W)
 	l3_W.append(model.l3.W)
 
+serializers.save_npz("mnist_model.npz", model)
 
 # 精度と誤差をグラフ描画
 plt.figure(figsize=(8,6))
