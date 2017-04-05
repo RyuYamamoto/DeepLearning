@@ -92,7 +92,7 @@ def forward(x_data, y_data, train=True):
 	h2 = F.dropout(F.relu(model.l2(h1)), train=train)
 	y = model.l3(h2)
 	# 他クラス分類なので誤差関数としてソフトマックス関数の
-	# 交差エントロピー関数を用いて、誤差を導出i
+	# 交差エントロピー関数を用いて、誤差を導出
 	return F.softmax_cross_entropy(y, t), F.accuracy(y, t)
 	
 optimizer = optimizers.Adam()
@@ -102,7 +102,6 @@ train_loss = []
 train_acc = []
 test_loss = []
 test_acc = []
-
 
 l1_W = []
 l2_W = []
@@ -170,6 +169,7 @@ plt.legend(["train_acc", "test_acc"], loc=4)
 plt.title("Accuracy of digit recognition.")
 plt.plot()
 
+# 答え合わせ
 plt.style.use('fivethirtyeight')
 plt.figure(figsize=(15,15))
 cnt = 0
