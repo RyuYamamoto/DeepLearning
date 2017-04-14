@@ -14,14 +14,14 @@ plt.style.use('ggplot')
 batchsize = 1
 
 # 学修の繰り返し回数
-n_epoch = 20
+n_epoch = 100
 
 # 中間層の数
 n_units = 100
 
 iris = load_iris()
 iris.data = iris.data.astype(np.float32)
-iris.target = iris.data.astype(np.int32)
+iris.target = iris.target.astype(np.int32)
 
 # 学習用データをN個、検証用データを残りの個数と設定
 N = 100
@@ -73,8 +73,7 @@ for epoch in xrange(1, n_epoch+1):
 	#y_batch = y_train[perm[i:i+batchsize]]
 	x_batch = x_train
 	y_batch = y_train
-	print x_batch
-
+	
 	# 勾配を初期化
 	optimizer.zero_grads()
 	# 順伝播させて誤差と精度を算出
@@ -117,7 +116,7 @@ for epoch in xrange(1, n_epoch+1):
 	l2_W.append(model.l2.W)
 	l3_W.append(model.l3.W)
 
-serializers.save_npz("mnist_model.npz", model)
+serializers.save_npz("iris_model.npz", model)
 
 # 精度と誤差をグラフ描画
 plt.figure(figsize=(8,6))
