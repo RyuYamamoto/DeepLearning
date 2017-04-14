@@ -11,13 +11,13 @@ import pickle
 plt.style.use('ggplot')
 
 # 確率的勾配降下法で学習させる際の一回分のバッチサイズ
-batchsize =5
+batchsize = 5
 
 # 学修の繰り返し回数
-n_epoch = 500
+n_epoch = 1000
 
 # 中間層の数
-n_units = 100
+n_units = 10
 
 iris = load_iris()
 x = iris.data.astype(np.float32)
@@ -84,8 +84,6 @@ for epoch in xrange(1, n_epoch+1):
 		loss.backward()
 		optimizer.update()
 
-		#train_loss.append(loss.data)
-		#train_acc.append(acc.data)
 		sum_loss += float(cuda.to_cpu(loss.data)) * len(y_batch)
 		sum_accuracy += float(cuda.to_cpu(acc.data)) * len(y_batch)
 	train_loss.append(sum_loss/N)
@@ -104,8 +102,6 @@ for epoch in xrange(1, n_epoch+1):
 		# 順伝播させて誤差と精度を算出
 		loss, acc = forward(x_batch, y_batch, train=False)
 
-		#test_loss.append(loss.data)
-		#test_acc.append(acc.data)
 		sum_loss += float(cuda.to_cpu(loss.data)) * len(y_batch)
 		sum_accuracy += float(cuda.to_cpu(acc.data)) * len(y_batch)
 	test_loss.append(sum_loss/N_test)
@@ -119,8 +115,6 @@ for epoch in xrange(1, n_epoch+1):
 	l3_W.append(model.l3.W)
 
 serializers.save_npz("iris_model.npz", model)
-
-print len(train_loss)
 
 # 精度と誤差をグラフ描画
 plt.figure(figsize=(8,6))
