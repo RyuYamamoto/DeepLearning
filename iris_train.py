@@ -11,27 +11,30 @@ import pickle
 plt.style.use('ggplot')
 
 # 確率的勾配降下法で学習させる際の一回分のバッチサイズ
-batchsize = 1
+batchsize =5
 
 # 学修の繰り返し回数
-n_epoch = 100
+n_epoch = 500
 
 # 中間層の数
 n_units = 100
 
 iris = load_iris()
-iris.data = iris.data.astype(np.float32)
-iris.target = iris.target.astype(np.int32)
+x = iris.data.astype(np.float32)
+y = iris.target
+y = y.flatten().astype(np.int32)
 
 # 学習用データをN個、検証用データを残りの個数と設定
-N = 100
-x_train, x_test = np.split(iris.data, [N])
-y_train, y_test = np.split(iris.target, [N])
+index = np.arange(y.size)
+x_train = x[index % 2 != 0, :]
+x_test = x[index % 2 == 0, :]
+y_train = y[index % 2 != 0]
+y_test = y[index % 2 == 0]
 N_test = y_test.size
+N = y_train.size
 
 # Prepare multi-layerr perceptron model
 # 多層パーセプトロンモデルの設定
-# 入力 784次元(ピクセルデータ)、出力 10次元(0~9)
 model = FunctionSet(l1=F.Linear(4, n_units),
 					l2=F.Linear(n_units, n_units),
 					l3=F.Linear(n_units,3))
@@ -47,8 +50,9 @@ def forward(x_data, y_data, train=True):
 	# 交差エントロピー関数を用いて、誤差を導出
 	return F.softmax_cross_entropy(y, t), F.accuracy(y, t)
 	
-optimizer = optimizers.Adam()
+optimizer = optimizers.SGD()
 optimizer.setup(model.collect_parameters())
+optimizer.zero_grads()
 
 train_loss = []
 train_acc = []
@@ -68,46 +72,44 @@ for epoch in xrange(1, n_epoch+1):
 	sum_accuracy = 0
 	sum_loss = 0
 	# 0~Nまでのデータをバッチサイズごとに使って学習
-	#for i in xrange(0, N, batchsize):
-	#x_batch = x_train[perm[i:i+batchsize]]
-	#y_batch = y_train[perm[i:i+batchsize]]
-	x_batch = x_train
-	y_batch = y_train
+	for i in xrange(0, N, batchsize):
+		x_batch = x_train[perm[i:i+batchsize]]
+		y_batch = y_train[perm[i:i+batchsize]]
 	
-	# 勾配を初期化
-	optimizer.zero_grads()
-	# 順伝播させて誤差と精度を算出
-	loss, acc = forward(x_batch, y_batch)
-	# 誤差逆伝播で勾配を計算
-	loss.backward()
-	optimizer.update()
+		# 勾配を初期化
+		optimizer.zero_grads()
+		# 順伝播させて誤差と精度を算出
+		loss, acc = forward(x_batch, y_batch)
+		# 誤差逆伝播で勾配を計算
+		loss.backward()
+		optimizer.update()
 
-	train_loss.append(loss.data)
-	train_acc.append(acc.data)
-	sum_loss += float(cuda.to_cpu(loss.data)) * batchsize
-	sum_accuracy += float(cuda.to_cpu(acc.data)) * batchsize
-	
+		#train_loss.append(loss.data)
+		#train_acc.append(acc.data)
+		sum_loss += float(cuda.to_cpu(loss.data)) * len(y_batch)
+		sum_accuracy += float(cuda.to_cpu(acc.data)) * len(y_batch)
+	train_loss.append(sum_loss/N)
+	train_acc.append(sum_accuracy/N)
 	# 訓練データの誤差と、正解精度を表示 
 	print 'train mean loss={}, accuracy={}'.format(sum_loss / N, sum_accuracy / N)
-
+	
 	# evaluation
 	# テストデータで誤差と、正解精度を算出し汎化性能を確認
 	sum_accuracy = 0
 	sum_loss = 0
-	#for i in xrange(0, N_test, batchsize):
-	#x_batch = x_test[i:i+batchsize]
-	#y_batch = y_test[i:i+batchsize]
-	x_batch = x_test
-	y_batch = y_test
+	for i in xrange(0, N_test, batchsize):
+		x_batch = x_test[i:i+batchsize]
+		y_batch = y_test[i:i+batchsize]
 
-	# 順伝播させて誤差と精度を算出
-	loss, acc = forward(x_batch, y_batch, train=False)
+		# 順伝播させて誤差と精度を算出
+		loss, acc = forward(x_batch, y_batch, train=False)
 
-	test_loss.append(loss.data)
-	test_acc.append(acc.data)
-	sum_loss += float(cuda.to_cpu(loss.data)) * batchsize
-	sum_accuracy += float(cuda.to_cpu(acc.data)) * batchsize
-
+		#test_loss.append(loss.data)
+		#test_acc.append(acc.data)
+		sum_loss += float(cuda.to_cpu(loss.data)) * len(y_batch)
+		sum_accuracy += float(cuda.to_cpu(acc.data)) * len(y_batch)
+	test_loss.append(sum_loss/N_test)
+	test_acc.append(sum_accuracy/N_test)
 	# テストデータでの誤差と、正解精度を表示
 	print 'test mean loss={}, accuracy={}'.format(sum_loss / N_test, sum_accuracy / N_test)
 
@@ -117,6 +119,8 @@ for epoch in xrange(1, n_epoch+1):
 	l3_W.append(model.l3.W)
 
 serializers.save_npz("iris_model.npz", model)
+
+print len(train_loss)
 
 # 精度と誤差をグラフ描画
 plt.figure(figsize=(8,6))
