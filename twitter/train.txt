@@ -1,0 +1,269 @@
+åˆ ¥ã « Windows ä½¿ã ‚ã ªã „ã¨ã¯ è¨ €ãˆ å¥½ã ã §ã ¯ã ªã „ç› ¸æ ‰‹ã‚’æŽ’é™ ¤ã ™ ã‚ ‹ã ª ã‚“ã¦ã“ã¨ã—ãªã„ã˜ã‚ƒãªã„ã§ã™ã‹ã€ã—ã ªã „ã §ã ™ã‚ˆã­ ??? 
+ä» Šæ—¥ã ¯ã ‚‚ã†ä¼‘ã ¿ã Ÿã„ã‚“ã §ã ™ãŒ 
+@ 1999 umaibow ã¨ã‚Šã‚ãˆãšç ¤¾ ä¼ šä ºº ã«ãªã £ã Ÿã‚‰M ac ã«ä¹—ã‚Šæ›ãˆãŸã„ 
+æ– °å ’å… ¥ç ¤¾ ã—ã¦ 1 å¹´ã Œ çµ Œã£ãŸã®ã §å ¹´ è¨ ˜  https :// t . co / fK 0 suh 3 wdt 
+
+ã€Œã‚¦ã‚ ¤ã ƒ³ãƒ‰ãƒ¼ã‚ ºã ¯ã‚ ¯ã ‚½ã€ 
+ä» Šã®ã†ã¡ã«W indows ã«æ…£ã‚Œã¦ãŠã„ãŸã»ã†ãŒã„ã„ã‹(æ„å‘ ³ä ¸æ˜Ž) 
+RT @ ryuichiueda : è‡ªåˆ†ã ®è ƒ½åŠ›ã£ã ¦å ®¢ è¦³ç š„ãªæˆæžœã§ã—ã‹ è¨¼æ ˜Žã §ã ã ªã „ã‚“ã§ã™ã‚ˆã ­ã €‚ 
+RT @ sla : Caffe 2 ã€C affe ãƒ–ãƒ©ãƒ ³ã ƒ‰åŠ›ã¯ ä½¿ã „ãŸã‹ã £ã Ÿã‘ã© äº ’æ›æ€§ã ¯ç „¡ã„ã€ã ½ã „ã€‚P yTorch ã‚ˆã‚Šãƒ ¢ã ƒã‚ ¤ã ƒ«ãƒ•ã‚©ãƒ ¼ã ‚«ã‚ ¹ã €‚ Facebook open - sources Caffe 2 , a new deep learning framework https :// t . co / u â€ ¦ 
+å®¶ã « å¸°ã £ã ¦ä ½•ã‚‚ã‚„ã‚‹æ°—ãŒè µ· ããªã„ã¨ã„ã†çŠ ¶æ …‹ãŒ1é€ ±é –“ãã‚‰ã„ ç¶ šã„ã ¦ã „ã‚‹ 
+æŸç ” ç© ¶å ®¤ ãŒç„¼ãè‚‰ã‚„ã£ã ¦ã ‚‹ã›ã„ã §å »Š ä¸ ‹ãŒåŒ‚ã† 
+RT @ another _ tokyo : å¤ §é ˜ªãƒ »æ —¥æœ ¬æ ©‹ã ®é ›‘ å± …ãƒ“ãƒ«ã«ã€ã‚ãšã‹ 680 å††ã§ãŸã‚‰ã µã ã‚ ¤ã ‚¯ãƒ ©ã Œ é£ Ÿãˆã‚‹åº—ã€Œãƒšãƒ ªã ƒ¼ã ®ã ‚¤ã‚ ¯ã ƒ© ä¸¼ã €ãŒã‚ã‚‹ãžã€‚ã‚‚ã £ã ¨ã„ãã‚‰ã‚’ æ¬²ã ™ã‚‹ãªã‚‰ã€Œã„ãã‚‰ãƒ€ãƒ–ãƒ«ã€ã‚‚ã §ã ã‚‹ã€‚ã„ãã‚‰ï¼†ã‚ ¦ã ƒ‹ ä¸¼ã ‚‚ æ¿ €ã‚¦ãƒžã§ æ¯ Žæ—¥é€šã„ãŸã„ ï¼  
+https :// t . co / 9 MmUu 3 iK 7 u htt â€ ¦ 
+æ˜Žæ—¥ãƒŸãƒ¼ãƒ†ã‚£ãƒ ³ã ‚°ã ªã ®ã«p ython ã¨t witter ã §é Šã ³ã ™ãŽã¦ã„ã‚‹ã ®ã §é€ ²æ —ãŒãªã„ 
+ãƒ†ã‚¹ãƒˆä ¸­ ã §ã ™ 
+Hello , World ! 
+è« ¦ã ‚ã ¦å ¸° å® …ã™ã‚‹ 
+å¸°ã ‚ŠãŸã„ã‘ã©ã“ã‚Œæ” ¾ç ½® ã—ã¦æ˜Žæ—¥ã‚„ã‚‹ã ®ã ¯ã‚„ã ã ª 
+ãƒ‡ãƒãƒƒã‚°ã—ã¦ã‚‚åŽŸå› ãŒ çª ã æ­ ¢ã ‚ã‚‰ã‚Œã ªã ã ¦é ž å¸¸ã «ã ¤ã ‚‰ã„ 
+RT @ J _ EXPWY : # ä» Šæ—¥ã®L ED 
+ãŠä¹…ã—ã¶ã‚Šã§ã™ã€‚ 
+äººç ”ŸãŒã©ã†ã§ã‚‚è‰¯ãã ªã £ãŸæ™‚ã«ãŠ ä½¿ã „ãã ã•ã„  https :// t . co / ki 3 rVtZLl 0 
+æ™ ®æ®µ çµ ¶å ¯¾ ã‚„ã‚‰ã ªã „ãƒŸã‚¹ã §æ ‚©ã‚“ã§ãŸã®ã §ä »Šæ— ¥ã ¯ãƒ€ãƒ¡ã‹ã‚‚ 
+ãƒ ¬ã ƒƒãƒ‰ãƒ–ãƒ«ã‚¦ã‚ ©ã ƒƒã‚«åˆã‚ã¦ã ®ã ‚“ã ã‘ã ©æ ™®é€šã«ãƒ ¬ã ƒƒãƒ‰ãƒ–ãƒ « 
+Mastodon ã £ã ¦ã ªã « 
+ã€Œãƒ­ãƒœãƒã‚ ³ã ƒ¤ãƒžãƒˆã€æœ¬æ  ¼å §‹å‹•ã€€â€œå®…é…ä ¾¿ ã ®è ‡ªå‹•åŒ–â€ç›®æŒ‡ã™ https :// t . co / PLPpmyI 9 kt 
+æ‰‹æŒã ¡ã ® Zynq ãƒœãƒ¼ãƒ‰ã« å¿ ã°ã›ã¦ãŸm icroSD ãŒæ¶ˆãˆã¦ã ¦è ‰ 
+e ãŒæŠœã‘ã¦ãƒ ¯ã ƒ­ã‚ ¿ 
+@ takayan 660 Welcom 
+RT @ mattn _ jp : äººã Œå‹•ãã¨ä ººä» ¶è ²» ãŒæŽ›ã‹ã‚‹ã€‚ 
+äººä »¶ è²»ã ‚’æŽ›ã‘ã ªã „ç‚ ºã «ã ¯è ‡ªå‹•åŒ–ãŒå¿… è¦ ã€‚ 
+è‡ªå‹•åŒ–ã«ã ¯ã ‚³ãƒ ³ã ƒ”ãƒ ¥ã ƒ¼ã‚ ¿ã ‚„ã‚ ½ã ƒ•ãƒˆã‚¦ã‚ §ã ‚¢ãŒé‡ è¦ ã€‚ 
+ã‚ ³ã ƒ³ãƒ”ãƒ¥ãƒ ¼ã ‚¿ã‚„ã‚½ãƒ•ãƒˆã‚ ¦ã ‚§ã‚ ¢ã «ãŠé‡‘ã‚’æŽ›ã‘ã‚‹ã ¹ã ã€‚ 
+
+ã¨ã„ã†æµã‚Œã«ã ªã ‚‰ã ªã „ã¨ã„ã‘ãªã„ã®ã«æ—¥æœ ¬ã ®ã‚¨ãƒ³ã‚ ¸ã ƒ‹ã‚ ¢ã ® çµ ¦æ –™ã ¯å ®‰ã™ãŽã‚‹ã€‚ 
+å› ³æ ›¸ é¤ ¨ã« è³¼å …¥ ä¾ é ¼ç” ³è «‹æŠ•ã’ãŸ 
+å‰ã¯ trello ä½¿ã £ã ¦ã Ÿã‘ã©ã‚ã¾ã‚Šè‡ªåˆ†ã«ã ¯å ˆã‚ã ªã „ 
+ç ”ç ©¶ å® ¤ã «æ ¥ã Ÿã‚‰ä¸€æ— ¥ã ®ã‚„ã‚‹ äº ‹ã‚’ã‚ ¹ã ‚±ã‚ ¸ã ƒ¥ãƒ ¼ã ƒªãƒ ³ã ‚°ã™ã‚‹ã‚“ã ã‘ã©ã€ä½•ã‹ãã†ã„ã†ç ³» ã‚’ã„ã„æ„Ÿã˜ã«ã ¾ã ¨ã‚ã‚‹ã‚ ¢ã ƒ—ãƒ ªã ‚±ãƒ ¼ã ‚·ãƒ §ã ƒ³ã¨ã‹ã ªã „ã £ã ™ã‹ã­ ( é …ç›®ã”ã¨ã˜ã‚ƒã ªã ã ¦æ —¥ æ¯ Žã§ ) 
+RT @ uchujin 17 : ãƒãƒ ¼ã ƒ‰ã‚ ¦ã ‚§ã‚ ¢ã Œã€Œã‚½ãƒ•ãƒˆã‚ ¦ã ‚§ã‚ ¢ã ‚’ å® Ÿè¡Œã™ã‚‹ãŸã‚ã«å¿… è¦ ãªã‚‚ã®ã€ä »¥ ä¸ Šã§ã‚‚ä »¥ ä¸ ‹ã§ã‚‚ãªãã ªã £ã ¦ã „ã‚‹ã‚ˆã†ã«ã€ãƒ—ãƒ ­ã ‚°ãƒ ©ã ƒ ã‚ ³ã ƒ¼ãƒ‰ã‚‚ã€Œãƒ‡ãƒ ¼ã ‚¿ã‚’å‡¦ç†ã™ã‚‹ãŸã‚ã« å¿ …è¦ã ªã ‚‚ã ®ã €ã«ãªã‚Šã¤ã ¤ã ‚ã‚‹ã¨æ€ã†ã€‚å¿… è¦ ã«ã ¯é •ã„ãªã„ã®ã ã‘ã‚Œã©ã€ãã‚Œä »¥ ä¸ Šã§ã ¯ã ªã„ã€‚ ä¸ €ä ºº ã ®å ¤© æ‰ãƒ—ãƒ ­ã ‚°ãƒ ©ã ƒžãƒ ¼ã Œ ä¸ –ç•Œã‚’å¤‰â€ ¦ 
+äººä ¸¦ ã ¿ã ¨ã ¯ 
+åŸ ¼ç Ž‰çœŒã§ äººä ¸¦ ã ¿ã ®æš ®ã ‚‰ã—ã€æœˆåŽ5 0 ä¸ ‡å†† å¿ …è¦ã€€çœŒåŠ ´é €£ã ®è ª¿ æŸ»  https :// t . co / jP 0 HAhBmQR 
+RT @ saru _ to _ nehan 46 : å« ã¨å‡ ºä ¼šã £ã Ÿæ™‚ã€ãŠã™ã™ã‚ CD ã‚’ãŠ äº ’ã„ã«è ²¸ ã™ã“ã¨ã«ã ªã £ãŸã€‚ å½ “æ™‚ã‚ µã ‚«ãƒŠã‚¯ã‚ ·ã ƒ§ãƒ ³ã ® Go to futrue ã‚’è ²· ã £ã Ÿã °ã ‹ã‚Šã ã £ã Ÿã‹ã‚‰ã ¡ã ‚‡ã†ã©ã„ã„ã ¨è ²¸ ã—ãŸã‚‰è‰¯ã‹ã£ãŸã£ã ¦è ¨€ã £ã ¦ãã‚Œã¦ å¬ ‰ã—ã‹ã£ãŸã€‚ã‚ã‚Œã‹ã‚‰ 9 å¹´ç µŒã £ã Ÿã€‚ä»Šæ— ¥ã € ä¸ ‰æ—¥æœˆã‚µãƒ ³ã ‚»ãƒƒãƒˆã ®ã ‚¤ãƒ ³ã ƒˆãƒ ­ã Œâ€ ¦ 
+RT @ SAKANAICHIRO : åŒ—æ µ· é“ã‹ã‚‰æ± äº ¬ã «å‡ ºã ¦æ ¥ã ¦ã€æ¯Žæ— ¥å ¿… æ­»ã « å£ ã‚’ã‚ˆã˜ç™ »ã ‚Šã€æ°—ãŒã¤ã„ãŸã‚‰ã‚ã £ã ¨ã„ã†é–“ã« 10 å¹´ã Œ çµ Œã£ã ¦ã „ã ¾ã —ãŸãŒã€åˆã‚ã¦ã ®å œŸåœ °ã § Live ã‚’ã™ã‚‹å º¦ ã«ã€ã“ã‚“ãªé ãã ®è ¡—ã«ã¾ã §è ‡ªåˆ†é”ã ®æ ›²ãŒå±Šã„ã¦ã„ã¦ã€æ§˜ã€…ãª äººã ® äººç ”Ÿã«ã‚‚é– ¢ã ‚ã‚Œã¦ã„ã‚‹ äº ‹ã« æ° —ä»˜ã‹ã•ã‚Œã¾ã™ã€‚éŸ ³æ ¥½ ã«æ„Ÿ è¬ ã€‚ 
+ã“ã‚Œã€ãƒ­ãƒœãƒƒãƒˆå±‹ã‚‚A I å± ‹ã‚‚ èª ­ã ‚“ã æ–¹ãŒã„ã„ã— ä½ •ãªã‚‰ä¸€èˆ ¬ã ® äººã ‚‚ èª ­ã ‚“ã §ã ‚‚ã„ã„ã‹ã‚‚ã ªã  
+è¦ ªã Œ ï½ ¢ä ººå· ¥ç Ÿ¥èƒ ½ã ¨ãƒ“ãƒƒã‚ °ã ƒ‡ãƒ ¼ã ‚¿ ï½ £ã ¨ã„ã†æœ ¬ã ‚’ è²·ã £ã ¦ã ã ¦è ª­ã‚ã¨ è¨ €ã‚ã‚ŒãŸã ®ã §é› »è »Šã §è ª­ã‚“ã§ã‚‹ 
+RT @ duo 6750 : ã€æƒ…å  ±å ‡¦ç†æŠ€ è¡ “è€… è© ¦é ¨“ã€‘ 
+ã€€ 
+ã€Œè³‡æ  ¼ã Œã‚ã£ã ¦ã ‚‚ ä½¿ã „ç‰ ©ã «ã ªã ‚‰ã ªã „ãƒ ¤ã ƒ„ã ¯å ¤§ å‹ ¢ã „ã‚‹ã€ 
+ã€Œè³‡æ  ¼ã Œç„ ¡ã ã ¦ã ‚‚ å® ŸåŠ›ã«å• é¡ ŒãŒã ªã „ãƒ ¤ã ƒ„ã ¯å ¤§ å‹ ¢ã „ã‚‹ã€ 
+ã€€ 
+ä¸ Šè¨˜ã®2ã ¤ã ¯çœŸå®Ÿã §ã ™ã€‚ã§ã‚‚ä¸‹ è¨ ˜ã‚‚ã ¾ã ŸçœŸå®Ÿã §ã ™ã€‚ 
+ã€€ 
+ã€Œæœ¬ å½ “ã« å® ŸåŠ›ãŒã‚ã‚‹ãƒ¤ãƒ„ã¯å—é¨“ã•ãˆã™ã‚Œã °å ˆæ  ¼ã ™ã‚‹ã€ 
+ã€€ 
+ï¼ ¼^ o ^ ï¼  
+ã†ã¡ã ¯è ‡ª å·±ç ´¹ä» ‹ã¯ ç° ¡å ˜ã«ã‚„ã‚‹ã ã‘ã ã ªã  
+@ 316 _ YukiColombo åƒ•ã‚‰ã ®å ­¦ ç§ ‘ã¯ B 3 å‰æœŸã‹ã‚‰ã §ã €ãã® ä» –ã¯ å¾ ŒæœŸã‹ã‚‰ã §ã ™ã ­ã €‚å‘¨ã‚Šã ®å ¤§ å­ ¦ã « æ¯ ”ã¹ã‚‹ã¨ ä¸ €å ¹´ æ— ©ã „ã §ã ™ã ­ã €œ 
+æ˜Žæ—¥ç ”ç ©¶ å® ¤é … å± žã‹ 
+
+ç ”ç ©¶ å® ¤é … å± žã•ã‚Œã¦ã‹ã‚‰ 4 å¹´ç ›®ã . .. 
+å¯ è µ· ãã§é…’é £² ã‚“ã ã‚‰é ­ç—›ã„ 
+https :// t . co / eevrd 8 La 97 
+ï½ ¢ã ƒŸã‚ µã ‚¤ãƒ«ã‚’ç™ ºå °„ã—ãŸ ï½ £ã ¨ã„ã† äº ‹å®Ÿã‚’ç›®ãŒè¦šã‚ã¦ã‹ã‚‰çŸ ¥ã £ãŸã—ã€ãã‚Œã‚’çŸ ¥ã £ãŸã®ãŒT witter ã ªã ®æ€–ã„ 
+RT @ yutakashino : äº ‹å‰ å­ ¦ç ¿’ æ¸ ˆã¿ã ®ã ƒ¢ãƒ‡ãƒ«ã‚’å¼„ã‚‹ã ã‘ã ã £ã Ÿã‚Šï¼Œ MNIST ã §ã ‚„ã £ã ¦ã ¿ã Ÿ ï¼ Œã ã‘ã§ã ¯çµ¶ å¯¾ã «åˆ†ã‹ã‚‰ãªã„ã§ã™â€¦ ï¼ Žè«–æ–‡ã«ã‚ã‚‹ãƒ ¢ã ƒ‡ãƒ«ã‚’ãƒ ªã ƒ—ãƒ ­ã ƒ€ã‚ ¯ã ‚·ãƒ §ã ƒ³ã™ã‚‹ã ®ã •ãˆï¼Œã‹ãªã‚Šã® ä½ œæ ¥­ ã«ãªã‚‹ã®ãŒæ™®é€šã§ã™ï¼Žã“ã®è‚Œæ„Ÿ è¦ šãŒã ªã „ã ¨ï ¼Œæ™ ®é €šã«ç„¡ç†ã™ãŽã¾ã™ï¼Ž 
+RT @ yutakashino : ï¼ ˆÂ´- ` ï¼ ‰. ï½ ¡o O ( æ© Ÿæ ¢° å­ ¦ç ¿’ã¨ã‹ æ·±å ±¤ å­ ¦ç ¿’ã £ã ¦ ï¼ Œãƒ‡ãƒ ¼ã ‚¿ãŒå ¤§ é‡ã«å¿… è¦ ã ã—ï¼Œãƒ ¢ã ƒ‡ãƒ«ã‚’ ä½ œã£ã ¦å­¦ ç¿ ’ã—ã ¦ã ‚‚ å¤ §æ Šµã ¯ã ƒžãƒˆãƒ¢ã«åŽæŸã—ãªãã ¦æ €§èƒ ½ã §ã ªã „ã—ï¼Œãƒ‡ãƒ¼ã‚ ¿ã ®ã‚ ¿ã ‚° ä» ˜ã‘ã«è†¨ å¤ §ã ªãƒ ªã ‚½ãƒ ¼ã ‚¹ãŒã‹ã‹ã‚‹ã—ã§ ï¼ Œæ™®é€šã«ã†ã¾ãã„ã‹ã ªã „ã ®ã §ã™ï¼Žãã®è‚Œæ„Ÿ è¦ šãªã—ã«ã€Œæ ·± å± ¤å ­¦ ç¿ ’ã‚¨ãƒ ³ã ‚¸ãƒ‹â€¦ 
+ã‚ ½ã ƒ•ãƒˆãƒãƒ ³ã ‚¯ã€è‹± èª žå ­¦ ç¿ ’ç”¨ AI æ ­è ¼‰ãƒ ­ã ƒœãƒƒãƒˆã€ŒM usio X ã€ã‚’ç™ ºå £² ã€€ã‚­ãƒ £ã ƒ³ãƒšãƒ¼ãƒ ³ã ‚‚ å® Ÿæ–½ - ITmedia Mobile https :// t . co / XfshrwZOTv 
+RT @ kazoo 04 : ä¸ Šå¸ã€Œã ¾ã £ãŸãã€æœ€ è¿ ‘ã®è‹ ¥ã „ å¥´ã ¯ãã‚“ã ªã “ã¨ã‚‚ã §ã ã‚“ã®ã‹ã€ 
+æ– °å ’ã€Œã™ã ¿ã ¾ã›ã‚“â€ ¦ã “ã‚“ãªç› ®ç š„ã‚‚ã‚ã‚„ãµã‚„ã§éžåŠ¹çŽ‡ãª ä½ œæ ¥­ ã £ã ¦æ… £ã ‚Œã ¦ã ªãã ¦â €¦ã€ 
+RT @ yutakashino : Beyond Face Rotation https :// t . co / h 3 F 75 j 8 pJW ä» Šé€± ä¸ €ç•ª é© šã„ãŸã®ã ¯å ´é ¢é ¡”ç” »å ƒã‹ã‚‰ã »ã ¼ãƒ›ãƒ³ãƒ ¢ã ƒŽã ®æ ­£ é ¢é ¡”ç” »å ƒã‚’ç”Ÿæˆã™ã‚‹T P - GAN ã §ã ™ã‚ˆã­â€¦  https :// t . co / GzHq 5 tu 6 Ms 
+RT @ nhk _ news : å¤ §å ­¦ ç”Ÿã® å°±è · æ´»å ‹• åŽ »å ¹´ ä¸ Šå›žã‚‹æ—©ã„ãƒšãƒ ¼ã ‚¹ã §é €²ã‚€  # nhk _ news https :// t . co / JLxXnI 02 iu 
+RT @ sla : å†å®Ÿ è£ …ã—ã ¦ã ¦ã†ã¾ãã„ã‹ã ªã „ã¨ãã€å®Ÿ è£ …ãŒãƒã‚°ã £ã ¦ã‚‹ã®ã‹è‡ªåˆ†ã®ç†è §£ ãŒé–“é•ã£ã ¦ã ‚‹ã ®ã ‹ è« –æ–‡ã ®è ¡¨ è¨ ˜ãƒŸã‚ ¹ã ªã ®ã ‹ãã‚‚ãã‚‚ è« –æ–‡ãŒé–“é•ã£ã ¦ã ‚‹ã ®ã ‹ã‚ã‹ã‚‰ã ªã „ã ®ã Œ 1 ç• ªã ¤ã‚‰ã„ã¨ã«æ€ã† ï¼ ˆãã—ã¦è‘—è€…ã«ãƒ¡ãƒ ¼ã ƒ«ã—ãŸã‚‰è«–æ–‡ã«æ› ¸ã ‹ã‚Œã¦ã ªã „ãƒ’ãƒ¥ãƒ ¼ã ƒªã‚ ¹ã ƒ†ã‚ £ã ‚¯ã‚ ¹ã ‚’ å® Ÿé¨“ã«ã ã‘ä ½¿ ã £ã ¦ãŸã‚Šãƒ‘ãƒ©ãƒ ¡ã ƒ¼ã‚ ¿ã Œç• °ã ªã £â €¦ 
+RT @ YahooNewsTopics : ã€ã€Œæœ€å ¼· ã€çˆ† å¼ ¾  IS ã®3 6 äººæ ­» äº ¡ã €‘ ç± ³è »ã ®ã ‚¢ãƒ•ã‚¬ãƒ‹ã‚¹ã‚ ¿ã ƒ³ã §ã ®ã€Œå ¤§ è¦ æ¨ ¡ç ˆ† é¢ ¨ç ˆ† å¼¾ï ¼ˆ MOAB ï¼ ‰ã€æŠ•ä¸‹ã§I S æˆ ¦é —˜å“¡3 6 äººã Œ æ­»ä º¡ ã€‚ã‚¢ãƒ•ã‚¬ãƒ‹ã‚¹ã‚ ¿ã ƒ³å› ½é ˜²çœã®å  ±é “ å® ˜ãŒç™ ºè ¡¨ ã€‚  https :// t . co / Ik 9 BRT 7 wFQ 
+RoboCup ã‚ ¸ã ƒ£ãƒ‘ãƒ³ã‚ ªã ƒ¼ãƒ—ãƒ³ãŒæ¥æœˆã¨èžã„ã ¦ç „¦ã‚‹. ..( è‡ªåˆ†ã ¯è ¡Œã‹ãªã„ã‘ã©) 
+
+ä» Šä½œã £ã ¦ã‚‹ã‚‚ã ®ã Œé–“ã«åˆã†ã‹ 
+RT @ TJO _ datasci : æ© Ÿæ ¢° å­ ¦ç ¿’ã‚’ã€Œ ä½ œã‚‹ã€ä ºº å‘ã‘ã ®æ œ¬ã ¯æ²¢ å±±ã ‚ã‚‹ã‘ã ©æ ©Ÿ æ¢°å ­¦ ç¿ ’ã‚’ã€Œä ½¿ ã†ã€ äººå ‘ã‘ã®æœ ¬ã £ã ¦å °‘ã ªã „ã‚“ã ã‚ˆã­ã€‚ã§ã‚‚ã“ã ®äºº å· ¥ç Ÿ¥èƒ ½ã ƒ–ãƒ ¼ã ƒ éŽç†±ã ®ä¸­ ã€å¾Œè€…ã®æœ ¬ã ¯ã ©ã ‚“ã ©ã ‚“ å¿ …è¦ã«ãªã £ã ¦ãã‚‹ã¨æ€ã† 
+ä» Šå¾Œãƒãƒƒãƒˆã«ã ¯ã ‚ã ¾ã ‚Šæ‰ ¹å ˆ¤çš„ãªã“ã¨ã ¯æ ›¸ã‹ãªã„ã‚ˆã†ã«ã™ã‚‹ 
+
+æ–‡è„ˆã ®å ‰ å¾ Œã§ èª ¤è §£ ã‚’ç”Ÿã‚€ã®ã § 
+ãƒ ­ã ƒœãƒƒãƒˆ å­ ¦ä ¼šã ®è «–æ–‡ç· ã‚åˆ‡ã‚Šã€æ™‚æœŸçš„ã« RoboCup é–‹å‚¬å‰â€¦ã ªã ®ã‹ 
+ãã‚Œã £ã ½ã„  https :// t . co / damxmrZx 8 S 
+ã†ã¡ã ®ç ˆ¶ è¦ ªã € æ° —ã¥ãã ¨é ¼» æ¯ ›å‰ƒã‚Šæ©Ÿã §é ¼» æ¯ ›å‰ƒã £ã ¦ã‚‹ã‚“ã ã‘ã ©æ ¯›ãŒå ¤ª ãã ªã ‚‹ã‹ã‚‰ã‚„ã‚ãŸã»ã†ãŒã„ã„ã‚ˆã£ã ¦ã „ã £ã ¦ã„ã‚‹ã‚“ã ã‘ã©ã‚„ã‚ã ªã „ã—ç™–ã ªã ®ã‹ 
+ã‚ ³ã ƒƒãƒ—ã‚’å€’ã•ãšé‹ã ¶ã € å­ ¦ç ¿’ã™ã‚‹ã‚ µã ƒ¼ãƒ“ã‚¹ãƒ ­ã ƒœãƒƒãƒˆ ( 2 / 2 ) - EE Times Japan https :// t . co / 9 a 71 oxNrUC @ eetimes _ jp ã•ã‚“ã‹ã‚‰ 
+
+ã“ã® è¨ ˜äº‹ã ®ä¸­ ã«ã‚³ãƒƒãƒ—ã‚’å€’ã•ãªã„ã§ èµ°è ¡Œã™ã‚‹å‹•ç”»ãŒãªã‹ã£ãŸâ€¦ 
+1 æ—¥2 0 ä¸ ‡å€‹ã ®è ·ç‰ ©ã ‚’ åº Šã‚’ã ¯ã „å›žã£ã ¦é –“é•ã„ã ªã æŒ ¯ã ‚Šåˆ†ã‘ã‚‹ç„¡æ• °ã ® ä» •åˆ†ã‘ãƒ­ãƒœãƒƒãƒˆãŒåœ §å ·» - GIGAZINE https :// t . co / xoMm 7 hYNYM 
+ãƒ—ãƒ­ãƒ•ã«èˆˆå‘³ã‚ã‚‹ã“ã¨æ› ¸ã „ã ¦ã Ÿã ®ã ¯åŒã˜ã‚ˆã†ãªåˆ†é‡Žã§èˆˆå‘³ã‚’æŒã £ã ¦ã„ã‚‹ äººã ¨ã ¤ã ªãŒã‚‹ãŸã‚ã ¿ã Ÿã„ãªã¨ã“ã‚ã¯å‰ã‚ã £ã Ÿã‘ã©ã ©ã †ã §ã ‚‚è‰ ¯ã ã ªã £ã ¦ã ‚·ãƒ ³ã ƒ—ãƒ«ã«ã—ãŸ 
+å­ ¦ç ”Ÿã ®ã †ã ¡ã ¯è‡ªåˆ†ã‹ã‚‰ã‚ã–ã‚ã–å‘ ä¸ ‹ã™ã‚‹ã‚ˆã†ãªã“ã¨ã ¯æ ›¸ã‹ãªãã ¦ã ‚‚ã„ã„ã ®ã §ã ¯ã ¨æ€ã£ã ¦ã —ã ¾ã † 
+ã„ã‚ˆã„ã‚ˆç‰ ©é ¨’ãªè ©± ã«ãªã £ã ¦ããŸã ª 
+
+ã€åŒ—æœé ®® æƒ…å‹¢ã€‘ç ±³ ã€åŒ—æœé ®® ã ¸ã ®å…ˆåˆ¶æ” »æ ’ƒ æº –å‚™ã‹ã€€æ  ¸å ®Ÿ é¨ “æ•¢ è¡ Œã® ç¢ºè ¨¼ å¾ —ãŸ æ®µé šŽã §ã €€ ç± ³ã ƒ†ãƒ ¬ã ƒ“å  ±é “ https :// t . co / 3 ZxKt 0 L 8 lo 
+ã‚ ¤ã ƒ³ãƒ†ãƒ«ã¨P referred Networks ã€æ ·± å± ¤å ­¦ ç¿ ’ãƒ•ãƒ ¬ã ƒ¼ãƒ ãƒ¯ãƒ ¼ã ‚¯ã€ŒC hainer ã€ã§å”æ ¥­ https :// t . co / bQ 6 QOgdDqh @ cnet _ japan ã•ã‚“ã‹ã‚‰ 
+ãƒ ªã ƒ³ã‚ ¯ã ‚¹ MERLIC ï¼ šæ ·± å± ¤å ­¦ ç¿ ’ã«ã‚ˆã‚Š å¤ šæ§˜ã ªã ƒ•ã‚ ©ã ƒ³ãƒˆã‚’ é« ˜ç ²¾ åº ¦ã « èª è­˜ã€ç”»åƒå‡ ¦ç †ãƒ„ãƒ¼ãƒ«ã®æœ€æ–°ç‰ˆ  - TechFactory https :// t . co / DKLI 7 fsLYI 
+æ© Ÿæ ¢° å­ ¦ç ¿’é– ¢é €£ã ®ã ƒ‹ãƒ ¥ã ƒ¼ã‚ ¹ã Ÿã ©ã £ã ¦ã ‚‹ã¨ã€ æ·±å ±¤ å­ ¦ç ¿’ã ®æ Š€ è¡ “å–ã‚Šå… ¥ã ‚Œã ¦ã „ã‚‹ä¼ æ¥ ­ç µ æ§ ‹å¢—ãˆã¦ããŸã ªã ¨ã„ã†æ„Ÿã˜ 
+RT @ 55 _ kumamon : ãŠã¯ãã ¾ã €œ ï¼ ç†Šæœ ¬å œ°éœ‡ã‹ã‚‰1 å¹´ã €‚ æ¸ ©ã ‹ã„ã”æ” ¯æ ´ã‚ã‚ŠãŒã¨ã†ã”ã–ã„ã¾ã™ã ãƒ ¢ã ƒ³ ï¼ ã“ã‚Œã‹ã‚‰ã‚‚ å¿ ƒã‚’ã ²ã ¨ã ¤ã «ãŒã‚“ã °ã ‚‹ãƒ ¢ã ƒ³ ï¼   https :// t . co / sPoJz 0 c 35 B 
+ï¼¿Â ¶ï¿£ | â—‹ 
+ã‚„ã°ã„ 
+@ ryuichiueda ãã®å‰ã« ä¾¿ã ‚’å‡ ºã •ã›ã¦ã¨ã„ã†æ„Ÿã˜ã§ã™ã­ 
+ãƒˆã‚¤ãƒ ¬å €‹ å® ¤ã Œã„ã£ã ±ã „ã ®æ ™‚ã«ãƒ‰ã‚ ¢ã ƒŽãƒƒã‚¯ã™ã‚‹ã‚ ¢ã ƒ¬ã€ã©ã†è€ƒãˆã¦ã‚‚ä ¸­ ã §ç ”¨ è¶³ã —ã ¦ã ‚“ã ®å ˆ†ã‹ã£ã ¦ã ‚“ã ã‚ã £ã ¦æ€ã†ã‚“ã§ã™ã‘ã ©å ˆ¥ã ®æ „å› ³ã Œã‚ã‚‹ã‚“ã§ã—ã‚‡ã†ã‹ 
+å¥³å … æ®ºå ®³ é€ ®æ •ã ®ç ”·ã¯P TA ä¼ šé•· | 2017 / 4 / 14 ( é‡‘) - Yahoo ! ãƒ‹ãƒ¥ãƒ ¼ã ‚¹ https :// t . co / 4 dPoeYkfeC # Yahoo ãƒ‹ãƒ¥ãƒ ¼ã ‚¹ 
+
+é€ ®æ •ã•ã‚ŒãŸã‹â€ ¦ã £ã ¦æ €ã £ã Ÿã‚‰P TA ä¼ šé•·ã‹ã‚ˆãã‚Œã ¯ã ƒ¤ãƒã‚¤ã ®ã §ã ¯ 
+è²·ã £ã ¡ã ‚ƒã £ã Ÿ https :// t . co / j 34 xduXTvu 
+è¡ ›æ˜Ÿã«ä½ã‚ãŸã‚‰ç ©º è¦ ‹ä¸Šã’ã‚‹ã¨ãƒ‡ã‚«ã‚¤åœŸæ˜ŸãŒè¦‹ã‚Œã‚‹ã ®ã ‹ ... ã¨ã‹æ€ã£ãŸã‚Šã—ãŸ 
+åœŸæ˜Ÿã ®è ¡›æ˜Ÿã§ æ°´ç ´ åˆ†å­ã‚’æ¤œå‡º ç”Ÿå‘½è‚ ²ã ‚ã‚‹ç’° å¢ ƒãŒ å­ ˜åœ¨ã‹  | NHK ãƒ‹ãƒ¥ãƒ ¼ã ‚¹ https :// t . co / NEY 6 spXwJB 
+RT @ m _ bird : ä¼ šç ¤¾ ã §ã €Œ tmux ã ®ã ‚¨ã‚ ¹ã ‚±ãƒ ¼ã ƒ—ã¯c trl - a ã ã¨ã‚ ·ã ‚§ãƒ«ã®å…ˆé ­ ç§ »å ‹•ã‚ ­ã ƒ¼ãƒã‚¤ãƒ ³ã ƒ‰ã¨ã¶ã ¤ã ‹ã‚‹ã‹ã‚‰ã€åˆ ¥ã ®ã«ã—ãŸæ–¹ãŒã„ã„ã‚ˆã€‚åƒ•ã¯c trl - s ã«ã—ã ¦ã ‚‹ã€ 
+ã £ã ¦ è¨ €ã£ãŸã‚‰ã€éš£ã®e macs ä½¿ã „ã ®äºº ã « 
+ã€Œã“ã‚Œã ã‹ã‚‰ vim ä½¿ã „ã ¯ï ¼ æ¤ œç ´¢ ã §ã ã ªã ã ªã ‚‹ã˜ã‚ƒã ªã „ã §ã ™ã‹ï¼ã€ã£ã ¦ç ªç„¶d i â€ ¦ 
+ç ”ç ©¶ å® ¤é … å± žãŒ è¬ Žã®æˆ ¦ç •¥æˆ ¦ã «ã ªã £ã ¦ã ‚‹ã ®ç ¬‘ã† 
+ç± ³è »ã€ã‚¢ãƒ•ã‚¬ãƒ ³ã ® å¯¾ï ¼©ï¼ ³ä ½œæˆ ¦ã §æœ€å ¼· ã ®é žæ  ¸ç ˆ† å¼¾ã ‚’æŠ•ä¸‹ã€€å®Ÿæˆ ¦ã §åˆ  https :// t . co / di 0 PHWiRDA 
+ã‚„ã£ãŸ 
+å¤ ©æ °— äº ˆå ±ã¨å ¥³ ã ®è ‡ªæ’ ®ã ‚Šã ¯ä¿¡ ç”¨å‡ºæ ¥ã ªã„ 
+è‡ªåˆ†ã ¯ã “ã‚ŒãŒã §ã ã ¾ã ™ã £ã ¦å £ã  ã‘ã§ã„ã† äººã ‚ˆã‚Šã“ã‚Œä½œã £ã ¦ãã¾ã—ãŸã £ã ¦ç‰ ©è ¦‹ã›ã¦ããŸ äººã ®æ– ¹ã Œå °è ±¡ ã«æ®‹ã‚‹ã‹ã‚‰ãªãå½“ãŸã‚Šå‰ã ã‘ã© 
+è‡ªåˆ†ã ®è ƒ½åŠ›ã‚’ è¦ ‹ã›ã ªã „ã ¨ 
+è‡ªåˆ†ã ¯ç  ” ç© ¶å ®¤ é…å±žæ™‚ã«è‡ªå ·± ã‚ ¢ã ƒ”ãƒ ¼ã ƒ«æ› ¸ã „ã ¦ã ªã„ã®ã §ç Ÿ¥ã‚‰ãªã„ã‘ã ©ã €ã‚„ã‚‹ æ° —ã‚¢ãƒ”ãƒ¼ãƒ«ã ã‘ãªã‚‰è ª° ã §ã ‚‚ã‹ã‘ã‚‹ã‚“ã ã‚ˆãª. .. 
+ã“ã“ã ®å ›£åœ °ã €å‰ ²ã ¨ è¿ ‘ã„ã‚“ã™ã‚ˆã­ ... 
+ã—ã‹ã‚‚å¼•ã £è ¶Šã™æ™‚ã«ã“ã“å€™ è£ œã«ã—ã¦ãŸã‚“ã ã‚ˆã ª 
+
+åŸ ¼ç Ž‰ ä¸ ‰éƒ·ã ®å ›£åœ °ã §ç«äº‹ é ºä ½“ã ¯é «˜ é½ ¢å ¤« å© ¦ã ¨ ç¢ºè ª | NHK ãƒ‹ãƒ¥ãƒ ¼ã ‚¹ https :// t . co / ST 4 WxycxSV 
+RT @ med _ mahiro : ç¬ ¬2 4 å›žR OBO - ONE ã §ä ºˆé ¸ã ‚’é€šéŽã—ã€ãƒˆãƒ¼ãƒŠãƒ¡ãƒ ³ã ƒˆã«å‡ºå  ´ã —ãŸã€Œ MOG - 1 ã€ã®å‹•ç”»ã §ã ™ã€‚ã‚‚ã ¡ã ‚ã‚“ã€ è© ¦å ˆã §ã ¯ãƒ•ãƒ«ãƒœãƒƒã‚ ³ã «ã•ã‚Œã ¾ã —ãŸãƒ»ãƒ »ã ƒ» ç¬ ‘ã†ã—ã‹ã ªã „ãã‚‰ã„ã«ã€‚ 
+ï¼ Šå‹•ç” »ã ¯ãƒ ­ã ƒœãƒ ¯ã ƒ³ å¾ Œã«è„šã‚’ å¼·å Œ–ã—ãŸæ™‚ã®ã‚‚ã®ã §ã ™ã€‚  https :// t . co / x 4 mZkBS â€ ¦ 
+RT @ k _ yone : ç§ ã ‚‚ ã€Œç§ã€ãƒ­ãƒœãƒƒãƒˆã—ã‹ã§ãã¾ã›ã‚“ã€ã£ã ¦å °±æ´ »ã § è¨ €ã„ ç¶ šã‘ã ¦ç ¾è·ã ã‹ã‚‰ã€ å°±è ·ã—ã¦ " ä½ •ãŒã—ãŸã„ã‹ " ãŒæ˜Ž ç¢ºã ª äººã ¯ã€ä ¸» å¼µã — ç¶ šã‘ã‚‹ã“ã¨ã‚’ãŠã™ã™ã‚ã—ã¾ã™ã€‚ 
+é€†ã«ã€è‰²ã‚“ãª ä¼ šç ¤¾ ã §ã ƒãƒ ³ã ƒãƒ ³è ½ã¨ã•ã‚ŒãŸã ®ã §ã€"ã ©ã “ã ®ä ¼š ç¤¾ã «å… ¥ã ‚ŠãŸã„ã‹"ã §å °±æ´ »ã —ã ¦ã ‚‹ äººã «ã ¯ã Šã™ã™ã‚ã§ãã¾ã›ã‚“ã€‚ 
+RT @ milkymirukun : Fanta ã ®å Œ‚ã„ã‚’å—…ã„ã æ™‚ã ®å å¿œ https :// t . co / WYFXO 0 M 0 rd 
+ã‚„ã‚‹ æ° —ã‚¹ã‚ ¤ã ƒƒãƒæŠ¼ã—ã™ãŽã¦ å£ Šã‚ŒãŸ 
+çŒ«ã‚«ãƒ•ã‚§ è¡ ŒããŸã„ 
+å¼ Šå ­¦ ã®A I ç ”ç ©¶ æ‰€ã€å‡ ºæ ¥ãŸã“ã¨ã¯çŸ ¥ã £ã ¦ã ŸãŒæ ´» å‹•çŠ¶ æ³ å…¨ç„ ¶ç Ÿ¥ã‚‰ãªã‹ã£ãŸã‚ 
+RT @ Nikkan _ BizLine : åƒè‘‰ å· ¥å ¤§ ã ªã ©ã€æ—¥ å¸¸å ‹• ä½ œã‚’ AI ãŒå ­¦ ç¿ ’ã™ã‚‹å ¤§ è¦ æ¨ ¡ã ƒ‡ãƒ ¼ã ‚¿ã‚ »ã ƒƒãƒˆé–‹ç™ ºï ¼ 5 æœˆã«ã‚‚å…¬é–‹ã¸ 
+https :// t . co / jrfOfnIUd 5 https :// t . co / 4 zIhxf 9 WFJ 
+RT @ nekomata _ club : åŒæ™‚ å¤ šç™ºãƒšãƒ­ https :// t . co / dH 4 LileLQ 7 
+ElectroSwing || Cosmorot - Electro Swing 
+
+ã“ã‚Œã‚ã¡ã‚ƒãã ¡ã ‚ƒã‚«ãƒƒã‚ ³ã „ã„  https :// t . co / ztw 52 S 9 boS 
+VSCode ã§P ython æ› ¸ã „ã ¦ã ¡ã‚‡ã£ã¨æ„Ÿå‹•ã—ã ¦ã Ÿã ®ã « çµ å±€ã ®ã ¨ã“ã‚ PyCharm ä½¿ã £ã ¦ã ‚‹ 
+DeepLearning ã‚’ã¡ã‚‡ã‚ã £ã ¨ã‚„ã‚Š å§ ‹ã‚ãŸé–¢ ä¿ ‚ã§ Python ä½¿ã †é  »å º¦ ãŒå¤šãã ªã £ãŸã‚“ã ã‘ã ©ã ã ®ã ›ã„ã§æ™ ®é €šã«C ++ æ› ¸ã „ã ¦ã ¦ã‚‚ã‚»ãƒŸã‚³ãƒ ­ã ƒ³ã‚ã£ã ¡ã ‚ƒ å¿ ˜ã‚Œã‚‹ã®ã §ã ¤ã‚‰ã„ 
+ã¨ã‚Šã‚ãˆãšè…•æŒ ¯ã ‚Šå›žã—ã ¦ã Ÿã‚‰ãã‚Œã£ã ½ã  å¤ ‰åŒ–ã—ã¦ã„ã‚‹ã‚ˆã†ã ªã —ã ¦ã „ã ªã „ã‚ˆã†ã ª 
+åŠ›ã‚»ãƒ ³ã ‚µã‹ã‚‰ ZMP è¨ ˆç®—ã—ã¦ã ¿ã Ÿã‘ã©æ• °å €¤ è¦ ‹ã¦ã‚‚ã‚ˆãåˆ†ã‹ã‚“ãªã„(å ¯è ¦–åŒ–) https :// t . co / aXsFt 90 Tdt 
+å±±ä ¸­ ã §å ˆ‘ äº ‹éƒ¨é• ·ã ®é ºä ½“ãŒã¿ã ¤ã ‹ã £ã Ÿã€ã£ã ¦ã “ã‚Œã ã‘èžãã¨ã‚ã £ã ¡ã‚ƒäº‹ ä»¶ã ®åŒ‚ã„ 
+ã¨ã‚ã‚‹ã‚½ãƒ•ãƒˆã‚ ¦ã ‚§ã‚ ¢ã ƒ©ã‚ ¤ã ƒ–ãƒ ©ã ƒªã ®ã ƒ€ã‚ ¦ã ƒ³ãƒ ­ã ƒ¼ãƒ‰ã‚¯ãƒ ªã ƒƒã‚ ¯ã —ãŸã‚‰è„ ±æ ¯›ãŒäº‘ã€…ã® è¨ ˜äº‹ã«é£›ã‚“ã§ ä¸ è¦šã«ã‚‚ ç¬ ‘ã£ã ¦ã —ã ¾ã £ãŸã®ã §æ ‚”ã—ã„ 
+LT ç” ³ã — è¾¼ã ‚‚ã†ã¨æ€ã£ãŸã‚‰æ— ¢ã «åŸ‹ã¾ã £ã ¦ãŸâ€¦ orz 
+ã ªã «ã“ã‚Œã‚ã£ã ¡ã ‚ƒã »ã —ã„ 
+RT @ nel _ vicoletto : ãŠæ¯ã•ã‚“çŒ«å‡ºæ ¥ä ¸ŠãŒã‚Šâ ¤ï ¸ 
+
+ã §ã ‚‚ ä½ œå“ã¨ã—ã ¦ã ¯ å® Œæˆã—ã¦ã ¾ã ›ã‚“^ ^ https :// t . co / zzgrPxXF 0 Z 
+RT @ nel _ vicoletto : æ˜¨æ—¥ã ®ç ¶šã^ ^ 
+å® Œæˆã—ãŸã ®ã ¯ã€é‹ã‚“ã§ã‚‹å §¿ ã §ã —ãŸâ¤ ï¸  https :// t . co / TE 6 jF 0 wDFh 
+åˆ†é‡ãŒã‚ã‹ã‚‰ã ªã „ã ®ã § å¤ §é ‡ã«ã¶ã ¡è ¾¼ ã‚€æ ´¾ https :// t . co / BGDTlutOVy 
+ç ”ç ©¶ å® ¤ã «ã‚ˆã†ã‚„ã æ°´ã Œ å± Šã„ãŸ 
+ãƒˆãƒ¨ã‚ ¿ã Œ æ­ ©è ¡Œå›žå ¾© ã‚’åŠ©ã‘ã‚‹ãƒ ­ã ƒœãƒƒãƒˆã€ãƒ¬ãƒ ³ã ‚¿ãƒ«ã¸â€•W W - 1000 ã ¯å Š èº «é º» ç— ºã ®ãƒ ªã ƒãƒ“ãƒªã«æœ—å ±  | TechCrunch Japan https :// t . co / TCAAtmYCbF @ jptechcrunch ã•ã‚“ã‹ã‚‰ 
+ã‚ ¹ã ƒ©ã‚ ¤ã ‚¹ãŒè¤‡é›‘ã«ã ªã £ã ¦ã ã‚‹ã¨æœ ¬å ½“ã«ã‚ã‘ã‚ã‹ã‚‰ã ªã ã ªã ‚‹æ™‚ã‚ã‚‹ 
+3 æ—¥P ython è§ ¦ã ‚‰ã ªã „ã ã‘ã§P ython ã‚ˆãåˆ†ã‹ã‚‰ãªãã ªã £ã ¦ã —ã ¾ã £ãŸã®ã §ã ‚‚ã†ã‚ã ®ã ‚ªãƒ ©ã ‚¤ãƒ ªã ƒ¼æœ¬(éˆå™¨ ) æŒã¡ æ­ ©ã “ã†ã‹ã ª 
+å¤ ©æ °— äº ˆå ± è¦ ‹ãŸã‚‰ä»Šã“ã®æ™‚é–“ã€é™ æ°´ç ¢º çŽ‡0 % ã ªã ®ã«ã‚ã ¡ã ‚ƒãã ¡ã ‚ƒé› ¨é ™ã £ã ¦ã‚“ã˜ã‚ƒã‚“ 
+ãã‚‚ãã‚‚ãã‚“ã ªã « Zynq ã«è ©³ ã—ã„ã ®ã ‹ã ¨è ¨€ã‚ã‚Œã‚‹ã¨ã‚¢ãƒ ¬ 
+ROS ã¨Z ynq ã€ãŠæ‰‹è »½ ã ªã ƒã‚ ¿ã ªã„ã‹ã ªã ¨è€ƒãˆãŸã‘ã©. .. Qiita ã«P WM ã §ã ƒ¢ãƒ ¼ã ‚¿å‹•ã‹ã™è¨˜ äº ‹ã¨ã‹ã‚ã‚‹ã®ã‚ˆã­ 
+RT @ shinya 7 y : YOLO 9000 ã‚’ã‘ã‚‚ã®ãƒ•ãƒ¬ãƒ ³ã ‚ºã §è ©¦ ã™  [ DeepLearning ] on @ Qiita https :// t . co / 3 Eneb 5 Ukcp 
+Turtlebot 3 ã€å®Ÿ æ© Ÿã¿ã‚Œã‚‹ã ®ã ‹ãƒ ¼æ ¥½ ã—ã¿ 
+
+# rosjp 
+RT @ fujie : å°±æ ´» ã‚‚ç„¶ã‚Šï¼Žè‰ ²ã ‚“ãªç ” ç© ¶å ®¤ï¼ Œè‰²ã‚“ãª ä¼ æ ¥­ ã‚’è¦‹ã ¦å ›žã‚Œã‚‹ ï¼ ˆã—ã‹ã‚‚ è¶ …ä¸ å¯ §ã « å¯¾å ¿œã—ã¦ãã‚Œã‚‹ ï¼ ‰æ©Ÿ ä¼ šã¯ãã† æ» …å¤šã«ãªã„ï¼Ž 
+ã ¾ã ã†ã¡ã‚‚ã ã„ãŸã„ãã‚“ãªæ„Ÿã˜ã §ã ™ 
+
+æã‚‰ãæ˜Žæ—¥ ä¸ €æ°—ã«ãã‚‹ã‚“ã˜ã‚ƒã ªã „ã‹ãª 
+RT @ geckyokawa : ä» Šå ¹´ ã ¯ç  ” ç© ¶å ®¤ ã«å…¥ã‚ŠãŸã„ã‚¢ãƒ”ãƒ¼ãƒ«ã«æ ¥ã ‚‹ å­ ¦ç ”ŸãŒå°‘ã ªã „ã ªã ã€‚ä ººæ° —ãªã„ã®ã‹ãªãã€‚ 
+ã ¾ã ƒ¼é› £ã —ã„ã‚ˆã ­ä ¿º ã ¯å ‰²ã¨d is ã £ã Ÿç™ ºè ¨€ã™ã‚‹ã“ã¨ã‚‚ã‚ã‚‹ã‘ã ©å †·é™ã«è€ƒãˆãŸã¨ãã«ãã‚Œã‚‚ã‹ã ªã ‚Š ä¸»è ¦³ çš„ãªæ„è¦‹ã ã—ãã‚Œã‚’æŠ ¼ã — ä» ˜ã‘ã‚‹ã®ã ¯è ‰¯ãã ªã „ 
+@ 316 _ YukiColombo ä½ •ãŒ å« Œã§ ä½ •ãŒè‰ ¯ã „ã‹ã¯ãã® äººæ ¬¡ ç¬ ¬ã ªã ®ã § ä¸ €æ¦‚ã«ä»– äººã ®æ„è¦‹ã‚’ éµ œå‘‘ã ¿ã «ã—ãªã„ã§ æ¬²ã —ã„ã¨ã ¯æ €ã„ã¾ã™ã­ ç¬ ‘ 
+ãã“ã ®ç  ” ç© ¶å ®¤ ã ®å …ˆ è¼ ©ã Œã“ã“ã ¯ã “ãƒ ¼ã §ã‚ãƒ¼ã §ã £ã ¦è ¨€ã £ã ¦ã‚‚ãã‚ŒãŒå… ¥ã £ã ¦ã ã‚‹å­ã«ã¨ã £ã ¦ã ¯ã „ã„ã‹ã‚‚çŸ¥ã‚Œã‚“ 
+ã ¾ã ãã®ç ”ç ©¶ å® ¤ã Œã„ã„ç ”ç ©¶ å® ¤ã ‹ã ©ã †ã‹ã¯ãã® äººæ ¬¡ ç¬ ¬ã §ã—ã‚‡ã £ã ¦ã„ã† ( çµ å±€ ) 
+ROS å‹‰å ¼· ä¼ šã‚„ã £ã ±ã‚Šã‚‚ã†åŸ‹ã ¾ã £ãŸã‹ãƒ ¼ç ›® è¦ šã‚ãŸã¨åŒæ™‚ã«ç”³ã—è ¾¼ ã‚“ã§ã‚ˆã‹ã £ã Ÿ 
+å”æšã’ é£ Ÿã† å° ‚é–€ã ªã ‚‰ 
+RT @ habatafuture : å”æšã’ã ®ã Šæ‰‹ä¼ã„ã‚’æŽ ¢ã —ã ¦ã „ã ¾ã ™ 
+@ FrostyDesign _ JP ãã‚Œã ¯å ‰²ã¨ã‚¢ãƒ ªã §ã™ã­ ...( è© ¦ã ™ã ã‘ã ã¨ Qiita ã«ã‚‚ è¨ ˜äº‹ãŒã‚ã‚‹ã®ã §ä ½•ã‹ãƒ­ãƒœãƒƒãƒˆã£ã ½ã „ã“ã¨ã‚’ã—ã ªã „ã¨ã‚¢ãƒ ¬ã §ã™ãŒ ...) 
+RT @ realDonaldTrump : North Korea is looking for trouble . If China decides to help , that would be great . If not , we will solve the problem w â€ ¦ 
+ãŸã¶ã‚“ä»Šè…•ç«‹ã ¦ä ¼ã›ã—ãŸã‚‰ ä¸ €å›žç› ®ã §è…•ã® éª ¨ãŒæŠ˜ã‚Œã‚‹ã‚“ã˜ã‚ƒã ªã „ã‹ãª 
+RT @ marutaro 2000 : ä» Šæ—¥ã‚‚å ¹³ å’Œã  https :// t . co / SjcQHnPQ 1 b 
+RT @ marutaro 2000 : æŸ ´ç Š¬ã ¯æ •£ æ­ ©ã ®é€”ä ¸­ ã §ç œ ãã ªã £ãŸã®ã §å ¯ã‚‹ã“ã¨ã«ã—ãŸ https :// t . co / xekCHlj 9 zC 
+çœŸå ¤® ã ¡ã ‚ƒã‚“d is ã £ã ¦ã‚‹ã‚ã‘ã˜ã‚ƒãªã„ã§ã™ 
+åˆ ¥ã « å¼ •é€€ ä¼ šè¦‹ã ªã ‚“ã ¦ã ƒªã‚ ¢ã ƒ«ã‚ ¿ã ‚¤ãƒ ã§æ” ¾æ ˜ ã™ã‚‹ å¿ …è¦ã‚‚ãªã„ã§ã—ã‚‡ 
+ç± ³ã Œæ— ¥æ œ¬ã«ã€ŒåŒ—æœ é® ®æ ”»æ’ƒã€ è¨ €åŠ  https :// t . co / SoecETy 2 g 9 # FNN 
+
+æµ …ç”°çœŸå ¤® å¼ •é€€ ä¼ šè¦‹ã‚’ãƒ†ãƒ ¬ã ƒ“ã §ã ‚„ã £ã ¦ã„ã‚‹ã‚ˆã†ã ã‘ã ©ã ã‚Œå¾Œã §ã ‚‚ã‚ˆãã ­ï ¼Ÿ ï¼ Ÿï¼Ÿ 
+ã¨ã‚Šã‚ãˆãšã€åŸ‹ã¾ã‚‹å‰ã«ãƒã‚ ¿ã Œ è¦ ‹ã¤ã‹ã‚Œã °ç ™º è¡ ¨æž ç” ³ã — è¾¼ã ‚‚ ... 
+@ youtalk @ k _ yone ã ªã ‚‹ã »ã ©ã€ã‚ã‚ŠãŒã¨ã†ã”ã–ã„ã¾ã™ï¼ 
+ã ¦ã “ã¨ã¯æŠ ½é ¸ç™ ºè ¡¨ ã ®æ œŸæ— ¥ã ¾ã §ã ¯ç™ ºè ¡¨ ç” ³ã — è¾¼ã ¿ã ®ç Œ¶ äº ˆãŒã‚ã‚‹ ??? 
+@ k _ yone @ youtalk ç™ ºè ¡¨ æž ãŒ å¤ –ã‚Œã‚‹ã ã‘ã‹ã¨ã¯æ€ã†ã‚“ã§ã™ã‘ã ©ã €ã ©ã †ã ªã ‚“ã §ã ™ã‹ã­ ... 
+ROS å‹‰å ¼· ä¼ šå‚åŠ ç™ »é Œ²ã—ãŸã ¯ã „ã„ãŒãƒã‚¿ãŒç„¡ã„ã®ã §ã ƒã‚ ¿æ Ž¢ ã—ã™ã‚‹ã‹ ( åœ §å €’çš„ã«é…ã„ ) 
+LT ã¨ã‹ç™ ºè ¡¨ ã ®æ Š½é ¸ã £ã ¦ä ½•ã‹ã—ã‚‰ 
+RT @ youtalk : ROS Japan UG # 10 å‹‰å ¼· ä¼ š ã‚’å…¬é–‹ã—ã ¾ã —ãŸï¼ https :// t . co / nLLjxqhwTX # rosjp 
+å‡„ã„ã ®ã ¯ ç° ¡å ˜ã«å‹•ç” »ã Œã‚ã’ã‚‰ã‚Œã‚‹Y ouTube ã §ã ¯ ï¼ Ÿ 
+RT @ msmtnrk : YouTuber å° å­ ¦ç ”Ÿã‚’ã¿ã‚“ãªã€Œãƒ’ã‚«ã‚­ãƒ ³ã ‚­ãƒƒã‚º w ã€ã¨ã‹é ¦¬ é¹¿ã «ã—ã¦ã‚‹ã‘ã ©ã € 1 äººã §å‹•ç”»æ’ ®å½± ã—ã¦ ç· ¨é ›†ã—ã¦ãƒãƒƒãƒˆã«ã‚ ¢ã ƒƒãƒ—ãƒ­ãƒ ¼ã ƒ‰ã™ã‚‹æŠ€è¡“ã‚’å° å­ ¦ç ”ŸãŒæŒã £ã ¦ã‚‹ã®ã‚ ¹ã ‚´ãã ªã „ã §ã ™ã‹ã€‚ã‚¨ã‚¯ã‚ »ã ƒ«ãŒä ½¿ ãˆãªã„å ¤§ å­ ¦ç ”Ÿã‚ˆã‚Šã‚ ¹ã ‚´ã„ã¨æ€ã„ã ¾ã ™ã€‚ 
+ROS Japan UG # 10 å‹‰å ¼· ä¼ šã«å‚åŠ ã‚’ç”³ã—è ¾¼ ã ¿ã ¾ã—ãŸ ï¼   https :// t . co / 3 CvRV 8 EKr 6 # rosjp 
+èª ° 
+
+èŠ ³è ³€å„ªé‡Œ äº œã€éŽŒè‹…å ¥å ¤ª ã ¨ç µ å© šã€Œ ç¬ ‘é¡”ã«ãŸãã•ã‚“åŠ ©ã ‘ã‚‰ã‚Œã ¾ã —ãŸã€ https :// t . co / cgfW 9 hcve 6 
+RT @ saori _ skow : ä¸ €ä½“ ä½ •å º¦ ã€ã‚½ãƒã§ã ®ç œŸ å¤®ã ¡ã‚ƒã‚“ã ®ã ƒ•ãƒ ªã ƒ¼ã ®æ ¼”æŠ€ã‚’ è¦ ‹ã¦ã€ãƒ—ãƒ ¬ã ƒƒã‚ ·ã ƒ£ãƒ ¼ã «æŠ ¼ã — æ½°ã •ã‚Œãã†ãª å¤ œã‚’ è¶ Šãˆã ¦ã ãŸã ã‚ã†ã€‚ã‚‚ã†ç„¡ç†ã ã€å…¨ã ¦ã ‚„ã‚ã¦ã—ã¾ãŠã†ã¨æ ³£ ã„ãŸ å¤ œã«ã€ä½• åº ¦å ½¼ å¥³ã ® æ¼ ”æŠ€ãŒç§ã‚’æ”¯ãˆã¦ãã‚ŒãŸã ã‚ã†ã€‚ã“ã®æ ©ã ‚’ã ©ã †ã‚„ã£ã ¦è ¿”ã—ãŸã‚‰è‰¯ã„ã®ã‹åˆ†ã‹ã‚‰ã ªã „ã‘ã‚Œã ©ã € å¿ ƒã‹ã‚‰ã®â€ ¦ 
+è¿ ‘å ¹´ ã ®ã ‚¸ãƒ–ãƒªã ¯æ ˜ åƒãŒé ®® æ˜Žã™ãŽã¦ãƒ‡ã‚£ã‚ ºã ƒ‹ãƒ ¼æ ˜ ç” »ã « è¿ ‘ãã ªã £ã ¦ã ‚‹ 
+ã‚ã¨ã‚ ¸ã ƒ–ãƒ ªã ¯ å¤ šå°‘ã ®æ ˜ åƒã ®å ¤ã•ãŒä¹…çŸ ³è ­² ã•ã‚“ã ®æ ›²ã«åˆã† 
+é¢ ¨ã® è°·ã ®ãƒŠã‚¦ã‚ ·ã ‚« è¦³ã ¦ã‚‹ã‚“ã ã‘ã ©ã “ã ®æ ™‚ ä» £ã «ã“ã® ä½ œå“ ä½ œã£ãŸä ºº é”ã¯æœ ¬å ½“ã«å ¤© æ‰ã ã¨æ€ã £ã Ÿ 
+@ snt _ guntank æ° —ä»˜ã„ã¦ã—ã¾ã £ã Ÿã‹ 
+ä¸ €æ™© å¯ ã‹ã›ãŸ æ·±å ±¤ å­ ¦ç ¿’ 
+ä¸ €æ™© å¯ ã‹ã›ãŸã†ã©ã‚“ã£ã ¦ã ªã‚“ã‚„ã ­ã ‚“ 
+ä¸ €æ™© å¯ ã‹ã›ãŸã†ã©ã‚“ã€ã µã «ã‚ƒãµã«ã‚ƒã«ç…® è¾¼ã ‚“ã §ã ‚ã‚‹ã‚„ã ¤ã ¨ã‹çµ æ§ ‹å ¥½ ããªã‚“ã§ã™ã‘ã © 
+ãƒžã‚¸ 
+ã€Œä¸€æ™ ©å ¯ã‹ã›ãŸã‚«ãƒ ¬ã ƒ¼ã€ã§ é£ Ÿä ¸­ æ¯ ’ã€€ã‚ ¦ã ‚§ãƒ«ã‚·ãƒ ¥è Œã€ 100 åº ¦ã § 60 åˆ†é–“åŠ ç†±ã—ã¦ã‚‚æ ­» æ» …ã—ã ªã „ã‚‚ã®ã‚‚  https :// t . co / ogrRsljsvo 
+ã‚ µã ƒ³ãƒžãƒ«ã‚ ¯ã ‚«ãƒ•ã‚§ã ®ã ‚³ãƒ ¼ã ƒ’ãƒ ¼ã £ã ¦ç µ æ§ ‹è‹¦ç› ®ã  ã ª 
+ãƒãƒ–ã‚‹ä¸– ä» £. .. 
+RT @ I _ hate _ camp : ( ã“ã†ã„ã† äº ‹ã ã £ã Ÿã ®ã ‹â€ ¦â €¦ ) https :// t . co / aopWxwP 0 gC 
+ã ¡ã ªã ¿ã «ã‚‚ã†æ— ¢ã « 10 å€‹é£Ÿã £ã ¦ã‚‹ã®ã §ä ½“å†…ã« 2 å„„å€‹å… ¥ã ‚Šã ¾ã —ãŸ 
+ãƒ“ã‚¹ã‚³5å€‹ã« ä¹³é …¸èŒãŒ 1 å„„å€‹ã £ã ¦æ› ¸ã „ã ¦ã ‚ã‚‹ã®ã ¿ã ¦ã“ã‚Œ é£ Ÿã¹ãŸã‚‰ ä½ “å†…ã«ä ¹³ é… ¸è ŒãŒ ä¸ €æ°—ã«1å„„å€‹å… ¥ã ‚‹ã ®ã ‹â€ ¦ã ¨æ€ã†ã¨æ°—ãŒå¼•ã‘ã‚‹ 
+ã“ã‚Œã ¯ç ´ æ™ ´ã ‚‰ã—ã™ãŽ 
+RT @ ryuichiueda : graph - based SLAM ã ®ã ‚³ãƒ ¼ã ƒ‰ã«è ª¬ æ˜Žã‚’å… ¥ã ‚Œã ¾ã —ãŸã€‚ 
+
+https :// t . co / qSw 483 jb 4 n 
+çµ ¶å ¯¾ éŸ ³æ „ŸæŒã£ãŸéŸ³ç— ´ã £ã ¦ä ½• 
+TA ã ®æ ›¸ é¡ žã‚’æ› ¸ã „ã ¦ã „ã‚‹ã‚“ã ã‘ã ©ä ½•å›žã¿ã ¦ã ‚‚ 16 é€ ±å ˆ†ã‚ã‚‹ã‚“ã ãŒä¸€ ä½ “ 
+@ ryuichiueda ãŠç–²ã‚Œæ§˜ã §ã ™ã€å®Œå…¨ã«ãã® å­ ˜åœ¨ã‚’å¿˜ã‚Œã¦ã„ã¾ã—ãŸâ€ ¦ 
+@ ryuichiueda ãã†ã„ãˆã °ç  ” ç© ¶å ®¤ç´ ¹ä »‹ã ¿ã Ÿã„ãªã ®ã Œ äº ‹å‰ã«ã‚ã‚‹ã‚“ã §ã —ãŸã£ã‘. .. 
+ãã†ã„ãˆã °ä »Šæ— ¥ã ‹ã‚‰3 å¹´ç  ” ç© ¶å ®¤è¦ ‹å ­¦ ã ã£ãŸã‚ã‘ã ãŒè ª° ã‚‚æ¥ã ªã „ ( äº ˆæƒ³é€šã‚Š ) 
+ãƒ ­ã ƒœãƒƒãƒˆã ®å ›½éš›å ¤§ ä¼ šã€Œ World Robot Summit ã€ã®ã‚ ¹ã ‚¯ãƒ ¼ã ƒ«ãƒ ­ã ƒœãƒƒãƒˆãƒãƒ£ãƒ ¬ã ƒ³ã‚ ¸ã ®ãƒ—ãƒ©ãƒƒãƒˆãƒ•ã‚©ãƒ ¼ã ƒ ãƒ ­ã ƒœãƒƒãƒˆã«P epper ãŒæ Ž¡ ç”¨  | ãƒ—ãƒ¬ã‚ ¹ã ƒªãƒ ªã ƒ¼ã‚¹  | ãƒ‹ãƒ¥ãƒ ¼ã ‚¹ | ä¼ æ ¥­ ãƒ»I R | ã‚ ½ã ƒ•ãƒˆãƒãƒ ³ã ‚¯ã‚ °ã ƒ«ãƒ ¼ã ƒ— https :// t . co / uwn 1 ULsQZw 
+RT @ Atsushi _ twi : ã“ã‚Œã ¯å ‚è€ƒã«ãªã‚‹ã€‚ ç¢ºç Ž‡ãƒ ­ã ƒœãƒ†ã‚£ã‚ ¯ã ‚¹ã«æ›¸ã„ã¦ã ªã „ã‚ ¢ã ƒ«ã‚ ´ã ƒªã‚ ºã ƒ  æ¥½ã —ã¿: Jupyter notebook ã §ç ¢º çŽ‡ãƒ­ãƒœãƒ†ã‚ £ã ‚¯ã‚ ¹ã ®ã‚ ³ã ƒ¼ãƒ‰ã‚’æ› ¸ã „ã ¦ã „ããƒ—ãƒ­ã‚ ¸ã ‚§ã‚ ¯ã ƒˆã‚’å§‹ã‚ãŸ https :// t . co / anF 2 DDrZVc @ ryuichiueda ã•ã‚“ã‹ã‚‰ 
+ç ”ç ©¶ å® ¤ã § ä½¿ã £ã ¦ã ‚‹ PC ã‚’ã‚ˆã†ã‚„ã python 3 ã«ã—ãŸ 
+@ link _ forte ã‚ã‚ŠãŒã¨ã†ã”ã–ã„ã ¾ã ™ ! 
+
+ã•ã£ããè ´ã „ã ¦ã ¿ã ¾ã ™ã€‚ 
+ã ã„ãŸã„ã¯s ound cloud ã §è ¦‹ã ¤ã ‘ã‚‹ã‘ã © 
+ãŠã™ã™ã‚ èª°ã ‹æ•™ãˆã ¦æ¬² ã—ã„ 
+ä¸»ã «ã‚ ¤ã ƒ³ã‚ ¹ã ƒˆ ç³ » 
+æœ€è¿‘ ä½ œæ ¥­ ä¸ ­ã «è ´ã ã ®ã «ãŠæ´’è ½ã ªæ› ²ã ‚’æŽ ¢ã —ã ¦ã „ã‚‹ 
+æ˜Žæ—¥ã‹ã‚‰é ‘å ¼µ ã‚Šã¾ã™ã®ã § 
+å¤ §å ­¦ ã«æŸ“ã‚ã‚‰ã‚Œã¦ã„ã‚‹æ„Ÿ  https :// t . co / 7 j 8 svu 4 Swd 
+ã ¾ã  çµ å±€ ä» Šå ¹´ å¾ ©å ¸° ã ã‘ã ©ã ªâ€ ¦ 
+RT @ indigolaEnd : 2018 å¹´ã « å¾ ©å ¸° ã ªã ‚“ã ¦è ¨€ã £ã ¦ã„ãªã„ã—ã€M C ã ®å †… å®¹ã ‚‚å‰å¾Œã‚’ç„¡ è¦ –ã—ã ¦æ »ã˜æ›²ã’ã‚‹ã€‚ä½•ã §ã ã†ã¾ã §ã —ã ¦å ˜˜ã‚„æ†¶ æ¸ ¬ã §ãƒ‹ãƒ¥ãƒ ¼ã ‚¹ã«ã™ã‚‹ã‚“ã ã‚ã†ã‹ã€‚ãƒ•ã‚ ¡ã ƒ³ã«å ¯¾ ã—ã¦ è©±ã —ãŸè¨€è‘‰ã‚’æ »ã ˜æ› ²ã ’ã‚‹ã€ã ¾ã ‚ã‚‚ã†ãã†ã ªã ‚‹ã“ã¨ã ¯ã ‚ã‹ã£ã ¦ã „ã‚‹ã‚“ã ã‘ã ©ã €‚ 
+æœ¨åŽŸã•ãƒ¼ã‚“ãã‚‰ã‚¸ãƒ ­ã ƒ¼ã £ã ¦ è¨ €ã„ã ªã Œã‚‰ãã‚‰ã‚¸ãƒ ­ã ƒ¼ã«çªé€ ²ã —ãŸã„ 
+ä» Šæ—¥ã ã‘ã§6å›žãŠè… ¹ä ¸‹ã—ãŸ 
+èŠ ¸è ƒ½ äººã ®ãƒŽãƒ­ã‘ç”Ÿæ” ¾é €ã §ã ã„ã¦ ä½ •ãŒ æ¥½ã —ã„ã­ã‚“ãƒœã‚ ± 
+RT @ ryuichiueda : æ¯ Žæ—¥ã„ã‚ã‚“ãªã‚ ¢ã ‚¤ãƒ‡ã‚¢ãŒå‡ºã ¾ã ã £ã ¦ã€è‡ªåˆ†ã«ãã‚Œã‚’å®Ÿç ¾ã ™ã‚‹æŠ€ è¡ “ãŒã‚ã‚Šã€ä¼š ç¤¾ã «ã„ã‚‹ã¨æ™‚é–“ã‚’ é£ Ÿã‚ã‚Œã¦ãã‚ŒãŒå®Ÿç ¾ã §ããªã•ãã†ã ã £ã Ÿã‚‰ã€åšå £« èª²ç ¨‹ã«é€²ã‚“ã æ– ¹ã Œã„ã„ã §ã ™ã ­ã €‚ 
+RT @ GoyonoS : å­ ä¾›ã ®é  ƒã ®ç §ã ¯ç ¾Žç” ·å ­ã ã¤ãŸã®ã §ã €ã ¾ã ¾ã”ã¨ å¥½ã ãª( ä» Šã¯ äº ¡ã  ) å§ ‰ã«åŒ–ó „ç ²§ ã•ã‚Œã ¦é Šó „ã °ã ‚Œã ¦ã ‚ã ¾ã —ãŸã€‚ã“ã‚“ãªG IF ã‚’è¦‹ã‚‹ã¨ã€ç•¶ ( å½ “)æ™‚ã® ä»²è ‰¯ã—å§‰ å¼ Ÿã‚’æ€ã²å‡ ºã — æ³ £ã ‘ã ¦ã ã ¾ã ™ã€‚ã¡ã ªã ¿ã«ç§ã ¯ä »Šã §ã ‚‚ ç¾ Žç”· å­ ã§ã™ã®ã §å Œ–ó „ ç² §ã •ã‚Œã¦ã‚‚é•ó „‚å’Œæ„Ÿã ¯å …¨ó „ãã‚ã‚Šã ¾ã ›ã‚“ã€‚ã ªã «ã ¶ã ‚“ã‚ˆã‚ã—ãâ€ ¦ 
+RT @ GoyonoS : ( ðŸ¥ ï¿ £Ï ‰ï ¿£ ) ï¾ ‰ ã“ã‚“ã °ã ‚“ã ¯ã €‚ 
+ã ©ã ªãŸã•ã ¾ã ‚‚ã€ãŠç– ²ã ‚Œ æ¨ £ã §ã™ã€‚ 
+
+( via @ imgur ) https :// t . co / A 8 p 47 jdGaN 
+RT @ chibannf : ã‚ ¹ã ƒ¼ãƒ‘ãƒ¼ã ®å¯¿ å ¸ã ®ãƒ‘ãƒƒã‚ ¯ã Œé€ ²å Œ–ã—ã¦ã‚‹ï¼ ï¼ ï¼ã“ã‚Œã ã‚ˆã“ã‚Œã€ã“ã‚Œã“ããŒ æ± ‚ã‚ã ¦ã Ÿã‚‚ã‚“ã ã‚ˆ ï¼   https :// t . co / 3 zQr 0 dxMRQ 
+RT @ Atsushi _ twi : Numpy , Scipy , MATLAB ã ®ä¾¿ åˆ ©é –¢æ• °ã ‚’ å® Ÿè£…ã—ãŸ C ++ ã ®è ¡Œåˆ—æ¼” ç® —ãƒ©ã‚ ¤ã ƒ–ãƒ ©ã ƒª numpycpp - MyEnigma 
+https :// t . co / aX 6 lzVhuHO https :// t . co / R 6 tCi 51 Xlh 
+RT @ unnonouno : æœ€è¿‘ Chainer ã®P R å¢ —ãˆã ¦ã ãŸãªãƒ ¼ã ¨æ€ã£ã ¦ã Ÿã‚‰ï¼Œæ– °å …¥ ç¤¾å “¡ æ° ã ã£ãŸã¨ã‹ãã†ã„ã†ã‚ã‚Œï¼Žã‚ã‚‹ã„ã¯ ï¼ ŒP R é€ã£ã ¦ã Ÿã‚‰å…¥ ç¤¾ã —ãŸã¨ã„ã†ã‚ã‚Œ 
+RT @ Karasuma _ usb : æ® ‹ãƒ–ãƒ ­ã ƒƒã‚ ¯ã §ãƒ‰ãƒƒãƒˆç µµ ä½ œã‚‹ã€ã£ã ¦ã ©ã†ã„ã†è„³ã ®æ §‹é€ ã—ã ¦ã ‚‹ã‚“ã ã‚ã†ã‹ã€‚ https :// t . co / 0 ZLdCHTBck 
+RT @ s _ kajita : å’ç ”ã ¯ã ƒ–ãƒ ¼ã ‚¿ãƒ ¬ã ªãŒã‚‰ è¨ €ã‚ã‚ŒãŸãƒ†ãƒ¼ãƒžã‚’ã‚„ã£ãŸã®ã ã‘ã ©ã €ãã®æ™‚çŸ¥ã £ã Ÿã€Œäºˆ è¦ ‹åˆ¶ å¾ ¡ã €ãŒ2 0 å¹´å ¾Œã«2 è¶³æ ­© è¡ Œã« å½¹ç «‹ã ¤ã “ã¨ã«ã ªã ‚‹ã€‚ 
+RT @ s _ kajita : ä¸ Žãˆã‚‰ã‚ŒãŸä ¿® è« –ã®ç ”ç ©¶ ãƒ†ãƒ¼ãƒžãŒã ¤ã ¾ã‚‰ãªã‹ã£ãŸã®ã §ã €å…ˆç”Ÿã«ç›´ è« ‡åˆ¤ã—ã¦ã€Œ2 è¶³æ ­© è¡ Œãƒ­ãƒœãƒƒãƒˆã€ã ®ç  ” ç©¶ã ‚’ å§ ‹ã‚ãŸã€‚ã ¾ã •ã‹ãã ®ã ƒã‚ ¿ã ‚’ 30 å¹´ç ¶šã‘ã‚‹ äº ‹ã«ã ªã ‚ã†ã¨ã ¯ï ¼ˆ ç¬ ‘ï¼‰ 
+https :// t . co / b 5 nySFdWkN 
+RT @ ceekz : ç ”ç ©¶ ãƒ†ãƒ¼ãƒžã€é ¢ç ™½ãã ªã „ã ªã ƒ¼ã¨ã‹æ€ã£ãŸã‚‰ã€æ ­£ ç› ´ã «ç› ¸è «‡ã—ãŸæ– ¹ã Œã„ã„ã §ã ™ã‚ˆã€‚å…ˆç”Ÿã«ã€Œé ¢ç ™½ã„ã§ã—ã‚‡ ï¼ Ÿã€ã¨ã‹ è¨ €ã‚ã‚Œã¦ã‚‚æµã•ã‚Œã ¡ã ‚ƒãƒ€ãƒ¡ã€‚é¢ç™ ½ã „é ¢ç ™½ãã ªã „ã ¯ä¸» è¦³ã ªã ®ã §ã€åˆã‚ã›ã‚‹ å¿ …è¦ã ¯å …¨ãã ªã „ã §ã ™ã€‚ 
+RT @ 0529 kud _ U : ä» Šå›žã ®è Œœ æµ œæ ¡èˆŽã‚’ æµ·ã « æ² ˆã‚ã‚‹ä¼šã ®æ ˆæžœå ±å‘Šã§ã™ã€‚ 
+2 cm å‹•ãã ¾ã —ãŸã€‚ã ¾ã š å· ã« æ² ˆã‚ã ¦ã € æµ ã‚Œã«ä¹—ã›ã¦ æµ·ã «é‹ã³ã ¾ã ™ã€‚  https :// t . co / soqvuUfxhY 
+RT @ akujikij : æ˜Ÿé‡Ž æº ã¨ã‚ µã ‚«ãƒŠã‚¯ã‚ ·ã ƒ§ãƒ ³è ´ã„ã¦è„ ±ã ‚ªã‚ ¿ã —ãŸã£ã ¦ã ƒ„ã‚ ¤ã ƒ¼ãƒˆãŒã‚‚ã†æœ€é«˜ã«ã‚ªã‚ ¿ã ‚¯ 
+RT @ 07 grell : NHK ï¼ žå— ç± ³ã ‚³ãƒ ­ã ƒ³ãƒ“ã‚¢ã §ã ƒãƒ £ã ƒ¼ã‚ ¿ã ƒ¼ æ© Ÿå¢œè½ ãƒ–ãƒ©ã‚ ¸ã ƒ«ã ®ã ‚µãƒƒã‚«ãƒ ¼é ¸æ‰‹ã‚‰ 72 äººæ ­ ä¹ —  https :// t . co / BiZcIQVwsh 
+RT @ 7 thLaw : ãƒ•ã‚£ãƒ ªã ƒ”ãƒ ³ä ºº ã ®ã ƒªã‚ ¢ã ‚¯ã‚ ·ã ƒ§ãƒ ³ð Ÿ˜‚  # ãƒã‚±ãƒ ¢ã ƒ³ XYZ https :// t . co / wnn 3 UO 2 zsh 
+RT @ ITolijinal : æ–‡ç ³» ã€Œã“ã‚Œã£ã ¦ã ‚‚ã—ã‹ã—ã¦â€ ¦ã € 
+ç†ç ³» ã€Œä ¿º é”ã®ã‚«ãƒªã‚ ­ã ƒ¥ãƒ ©ã ƒ ãŒâ€¦ã€ 
+
+ã€Œã€Œå… ¥ã ‚Œæ› ¿ã ‚ã £ã ¦ã‚‹ãƒ¼ ï¼ Ÿï¼Ÿ ï¼ ï¼ã€ã€ 
+
+ç†ç ³» ã€Œé€±ã«2æ— ¥ã ‚‚å…¨ä¼‘ãŒã‚ã‚‹â€¦ã“ã‚Œã §æ œ¬ å½ “ã« å¤ §å ­¦ ç”Ÿãªã ®ã ‹â€ ¦ã € 
+æ–‡ç ³» ã€Œã¯ ï¼ Ÿï¼Ÿ ï¼ Ÿé€± 5 ã §ã ƒ•ãƒ«ã‚³ãƒžã® ä¸ Šã«ãƒ ¬ã ƒãƒ ¼ã ƒˆ ï¼ Ÿï¼Ÿ é£²ã ¿ ä¼ šã„ã‘ã­ãƒ ¼ã ˜ã‚ƒã‚“ã€ 
+RT @ caver 8 : è ·å  ´ã §ã ‚‚ã‚‰ã† å¥³å ­åŠ›é«˜ã„ãƒžã‚«ãƒ­ãƒ ³ã ® ä¾ ‹  https :// t . co / ave 2 HnvDwz 
+RT @ 74 Rainy : ä¸ –ç•Œ ä¸ €ä ½¿ ãˆãªã„ç”»åƒã‚’ä½œã £ã Ÿã ®ã § ä½¿ã ‚ã ªã „ã §ã ã ã•ã„  https :// t . co / 5 RB 5 eDudJ 3 
+RT @___ DiALOGUE : taspo ç™ »é Œ²ã ®å¯© æŸ » 
+ã‚ ¬ã ƒã‚ ¬ã ƒéŽãŽã ¦å …·åˆæ‚ªãã ªã ‚‹ https :// t . co / AgJgn 1 hXDP 
+RT @ Terubou _ Cos : ã“ã® ä¸ ­ã « ä¸ €ã¤ã ã‘ã‚ ¹ã ƒˆãƒ ­ã ƒ™ãƒ ªã ƒ¼ãƒ ãƒ¼ãƒ ³ã Œå«ã¾ã‚Œã¾ã™ã€‚ 
+
+ãã® ä» –ã™ã ¹ã ¦ãƒãƒ ã§ã™ã€‚ https :// t . co / J 5 o 3 CS 6 ZrO 
+RT @ 202 miyako : é…ç·šã ¯ã †ã ¾ã „ã“ã¨ã‚„ã‚‹ã ¨è Š¸ è¡ “ã®åŸŸã«é”ã™ã‚‹  https :// t . co / Jb 7 KVjzkR 0 

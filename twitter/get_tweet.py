@@ -1,30 +1,19 @@
-from requests_oauthlib import  OAuth1Session
-import json
-import time
-import pandas as pd
+#!/usr/bin/python
+#-*- coding: utf-8 -*-
+import tweepy
 
-CK="YrGrqMp9MWbRuLLmOrgwv1rP8"
-CS="h6pZQZ8s4CLkst3yufOpTSJuvTP85gtxCvAYL3XOlvC5MSQiNt"
-AT="854511352630530048-o2ZdJBNZjaAxmNL12aaxzUZnqNDAYkJ"
-AS="rZ1l43kOVrsREE7mfc84EO71oJp8Vr1HQTp3VCQJeZDXF"
+#認証を行う
+consumer_key = "YrGrqMp9MWbRuLLmOrgwv1rP8"
+consumer_secret = "h6pZQZ8s4CLkst3yufOpTSJuvTP85gtxCvAYL3XOlvC5MSQiNt"
+access_token = "854511352630530048-o2ZdJBNZjaAxmNL12aaxzUZnqNDAYkJ"
+access_secret = "rZ1l43kOVrsREE7mfc84EO71oJp8Vr1HQTp3VCQJeZDXF"
+auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+auth.set_access_token(access_token, access_secret)
+api = tweepy.API(auth)
 
-url = "https://api.twitter.com/1.1/statuses/update.json"
+f = open("out.txt","w")
 
-params = {'count': 100}
+for p in tweepy.Cursor(api.user_timeline,id="@ryu_software").items(3200):
+    f.write(p.text.encode('utf-8')+"\n")
 
-TweetList = []
-
-twitter = OAuth1Session(CK, CS, AT, AS)
-
-for i in range(100):
-    req = twitter.get(url, params = params)
-    if req.status_code == 200:
-        timeline = json.loads(req.text)
-        for tweet in timeline:
-            TweetList.append(tweet["text"])
-    else:
-        print ("Error: %d" % req.status_code)
-	time.sleep(60)
-
-df = pd.DataFrame(TweetList)
-df.to_csv('tweetlist.csv')
+f.close()

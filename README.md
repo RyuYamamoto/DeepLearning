@@ -1,1 +1,1 @@
-# DeepLearning
+# DeepLearning### mecabmecab out.txt -F "%m "|sed -e "s/EOS//g" > train.txt
