@@ -4,10 +4,10 @@
 import tweepy
 import datetime
  
-CK="VZAGLM2i47wOTGjek2GaRte97"
-CS="HSpUa5ugKuGjScs06UstxVXnQAilGgHvFh0NYucOrWUNNtxuOt"
-AT="838624603912060928-F5XznT95lFUVIniiGr3uSPcOodW91Ty"
-AS="Xx0jKqS5Y4ZlWauKxD6NnnJPf9bfUvEShsH3MPTGGi8v1"
+CK="YrGrqMp9MWbRuLLmOrgwv1rP8"
+CS="h6pZQZ8s4CLkst3yufOpTSJuvTP85gtxCvAYL3XOlvC5MSQiNt"
+AT="854511352630530048-o2ZdJBNZjaAxmNL12aaxzUZnqNDAYkJ"
+AS="rZ1l43kOVrsREE7mfc84EO71oJp8Vr1HQTp3VCQJeZDXF"
  
 # Twitterオブジェクトの生成
 auth = tweepy.OAuthHandler(CK, CS)
@@ -18,7 +18,7 @@ api = tweepy.API(auth)
 class Listener(tweepy.StreamListener):
     def on_status(self, status):
 		status.created_at += datetime.timedelta(hours=9)
-		if str(status.in_reply_to_screen_name)=="AdultBrains" and str(status.user.screen_name)=="AdultBrains":
+		if str(status.in_reply_to_screen_name)==api.me().screen_name and str(status.user.screen_name)=="seana_ps56":
 			tweet = "@" + str(status.user.screen_name) + " " + "Hello！\n" + str(datetime.datetime.today())
 			api.update_status(status=tweet)
 			return True

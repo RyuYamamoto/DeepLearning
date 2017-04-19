@@ -3,10 +3,10 @@ import json
 import time
 import pandas as pd
 
-CK = '3Np53J0MGrKE0e5VN4k6mhqux'
-CS = 'ci05sJ1IlGODvsN40KVd4h5OxFwlA1o04lpwC19NYkaJnLpO31'
-AT = '2694221550-LDWM5LfSsXnEwQb6K2xoMk7YFiuSYSdT0rc7JO5'
-AS = 'zUUi8pxsAFeIdAhY8OU81xAaDhQWj6uITQphrWPAS1woA'
+CK="YrGrqMp9MWbRuLLmOrgwv1rP8"
+CS="h6pZQZ8s4CLkst3yufOpTSJuvTP85gtxCvAYL3XOlvC5MSQiNt"
+AT="854511352630530048-o2ZdJBNZjaAxmNL12aaxzUZnqNDAYkJ"
+AS="rZ1l43kOVrsREE7mfc84EO71oJp8Vr1HQTp3VCQJeZDXF"
 
 url = "https://api.twitter.com/1.1/statuses/update.json"
 
