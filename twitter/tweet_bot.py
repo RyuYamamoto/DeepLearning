@@ -1,40 +1,63 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
- 
+
+import json
+import requests 
 import tweepy
 import datetime
- 
-CK="YrGrqMp9MWbRuLLmOrgwv1rP8"
-CS="h6pZQZ8s4CLkst3yufOpTSJuvTP85gtxCvAYL3XOlvC5MSQiNt"
-AT="854511352630530048-o2ZdJBNZjaAxmNL12aaxzUZnqNDAYkJ"
-AS="rZ1l43kOVrsREE7mfc84EO71oJp8Vr1HQTp3VCQJeZDXF"
- 
+import settings
+
+payload = {
+  "utt": "",
+  "context": "",
+  "nickname": "",
+  "nickname_y": "",
+  "sex": "男",
+  "bloodtype": "A",
+  "birthdateY": "2017",
+  "birthdateM": "1",
+  "birthdateD": "20",
+  "age": "26",
+  "constellations": "水瓶座",
+  "place": "東京",
+  "mode": "dialog"
+}
+
 # Twitterオブジェクトの生成
-auth = tweepy.OAuthHandler(CK, CS)
-auth.set_access_token(AT, AS)
+auth = tweepy.OAuthHandler(settings.CONSUMER_KEY, settings.CONSUMER_SECRET)
+auth.set_access_token(settings.ACCESS_TOKEN, settings.ACCESS_TOKEN_SECRET)
  
-api = tweepy.API(auth)
- 
+api = tweepy.API(auth) 
+
+context_prev = ""
+
 class Listener(tweepy.StreamListener):
     def on_status(self, status):
-		status.created_at += datetime.timedelta(hours=9)
-		if str(status.in_reply_to_screen_name)==api.me().screen_name and str(status.user.screen_name)=="seana_ps56":
-			tweet = "@" + str(status.user.screen_name) + " " + "Hello！\n" + str(datetime.datetime.today())
-			api.update_status(status=tweet)
-			return True
-      
+        status.created_at += datetime.timedelta(hours=9)
+        
+        # リプライが来たら返信
+        if str(status.in_reply_to_screen_name)=="bot_api_ai": #and str(status.user.screen_name)=="bot_api_ai":
+            payload['utt'] = str(status.text)
+            url = 'https://api.apigw.smt.docomo.ne.jp/dialogue/v1/dialogue?APIKEY='+settings.API_KEY
+            s = requests.session()
+            r =  s.post(url, data=json.dumps(payload))
+            res_json = json.loads(r.text)
+            context_prev = res_json['context']
+            tweet = "@" + str(status.user.screen_name) + " " + res_json['utt'].encode('utf-8')+"\n"
+            api.update_status(status=tweet)
+        return True
+     
     def on_error(self, status_code):
         print('Got an error with status code: ' + str(status_code))
         return True
-      
+     
     def on_timeout(self):
         print('Timeout...')
         return True
-  
-# Twitterオブジェクトの生成
-auth = tweepy.OAuthHandler(CK, CS)
-auth.set_access_token(AT, AS)
-  
+
+#auth = tweepy.OAuthHandler(settings.CONSUMER_KEY, settings.CONSUMER_SECRET)
+#auth.set_access_token(settings.ACCESS_TOKEN, settings.ACCESS_TOKEN_SECRET)
+
 listener = Listener()
 stream = tweepy.Stream(auth, listener)
 stream.userstream()
